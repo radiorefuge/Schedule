@@ -4,272 +4,314 @@
         "Program": "God's Word is Still True",
         "Speaker": "Pastor Steve Shively",
         "ID": "102",
-        "Website": "http://refugechurch.info/media/audio-archive"
+        "Website": "http://refugechurch.info"
+    },
+    {
+        "Time": "12:30 AM",
+        "Program": "Thru The Bible Radio",
+        "Speaker": "J. Vernon McGee",
+        "ID": 104,
+        "Website": "http://ttb.org"
     },
     {
         "Time": "1:00 AM",
         "Program": "Unshackled!",
         "Speaker": "Pacific Garden Mission",
         "ID": "103",
-        "Website": "https://unshackled.org/listen/browse-all-programs/"
+        "Website": "https://unshackled.org"
     },
     {
         "Time": "1:30 AM",
-        "Program": "Thru The Bible Radio",
-        "Speaker": "J. Vernon McGee",
-        "ID": "104",
-        "Website": "http://ttb.org/programs/the-5-year-study"
+        "Program": "Science, Scripture, & Salvation   ",
+        "Speaker": "Chris O'Brien",
+        "ID": 120,
+        "Website": "http://www.icr.org/radio/stationmanager"
+    },
+    {
+        "Time": "1:45 AM",
+        "Program": "Spritual Research Network-SRN",
+        "Speaker": "Chris Lawson",
+        "ID": 146,
+        "Website": "https://www.spiritualresearchnetwork.com/"
     },
     {
         "Time": "2:00 AM",
-        "Program": "Prophecy Today Intelligence Briefing",
-        "Speaker": "Jimmy DeYoung",
-        "ID": "105",
-        "Website": "http://prophecytoday.com/premium/intelligence-briefing/"
-    },
-    {
-        "Time": "2:15 AM",
-        "Program": "Messianic Perspectives",
-        "Speaker": "Gary Hedrick",
-        "ID": "106",
-        "Website": "http://www.cjfm.org/"
+        "Program": "Word For Today",
+        "Speaker": "Chuck Smith",
+        "ID": 134,
+        "Website": "http://thewordfortoday.org"
     },
     {
         "Time": "2:30 AM",
-        "Program": "Hope for Today",
-        "Speaker": "David Hocking",
-        "ID": "107",
-        "Website": "http://www.davidhocking.org/radio-archive.php"
+        "Program": "Music",
+        "Speaker": "",
+        "ID": "",
+        "Website": ""
     },
     {
         "Time": "3:00 AM",
-        "Program": "Bible Tract Echoes",
-        "Speaker": "Mark Smith",
-        "ID": "108",
-        "Website": "http://www.bibletractsinc.org/"
-    },
-    {
-        "Time": "3:30 AM",
-        "Program": "Fortress of Faith",
-        "Speaker": "Tom Wallace",
-        "ID": "109",
-        "Website": "http://www.fortressoffaith.org/daily-programs/"
-    },
-    {
-        "Time": "4:00 AM",
-        "Program": "Sunday Message Rebroadcast",
-        "Speaker": "Pastor Steve Shively",
-        "ID": "100",
-        "Website": "http://refugechurch.info/media/audio"
-    },
-    {
-        "Time": "5:00 AM",
-        "Program": "Truth For Life",
-        "Speaker": "Alistair Begg",
-        "ID": "114",
-        "Website": "https://www.truthforlife.org/broadcasts/archive/"
-    },
-    {
-        "Time": "5:30 AM",
         "Program": "Grace to You",
         "Speaker": "John MacArthur",
         "ID": "115",
-        "Website": "https://www.gty.org/resources/recentmessages"
+        "Website": "https://www.gty.org"
     },
     {
-        "Time": "6:00 AM",
-        "Program": "Crosstalk",
-        "Speaker": "Jim Schneider",
-        "ID": "116",
-        "Website": "http://www.vcyamerica.org/crosstalk.htm"
+        "Time": "3:30 AM",
+        "Program": "Music",
+        "Speaker": "",
+        "ID": "",
+        "Website": ""
     },
     {
-        "Time": "7:00 AM",
+        "Time": "4:00 AM",
         "Program": "Stand Up For The Truth",
         "Speaker": "Mike LeMay",
         "ID": "117",
-        "Website": "http://standupforthetruth.com/"
+        "Website": "http://standupforthetruth.com"
+    },
+    {
+        "Time": "5:00 AM",
+        "Program": "Love Worth Finding",
+        "Speaker": "Adrian Rogers",
+        "ID": 128,
+        "Website": "http://www.lwf.org"
+    },
+    {
+        "Time": "5:30 AM",
+        "Program": "The Contender",
+        "Speaker": "Various",
+        "ID": "144",
+        "Website": ""
+    },
+    {
+        "Time": "6:00 AM",
+        "Program": "Mini Bible College NT",
+        "Speaker": "Dick Woodward",
+        "ID": 129,
+        "Website": "http://mbc.icm.org"
+    },
+    {
+        "Time": "1899-12-30T14:30:00.000Z",
+        "Program": "Prophecy Today Intelligence Briefing",
+        "Speaker": "Jimmy DeYoung",
+        "ID": "105",
+        "Website": "http://prophecytoday.com"
+    },
+    {
+        "Time": "7:00 AM",
+        "Program": "Wretched",
+        "Speaker": "Todd Friels",
+        "ID": 130,
+        "Website": "http://www.wretchedradio.com"
     },
     {
         "Time": "8:00 AM",
         "Program": "God's Word is Still True",
         "Speaker": "Pastor Steve Shively",
         "ID": "102",
-        "Website": "http://refugechurch.info/media/audio-archive"
+        "Website": "http://refugechurch.info"
+    },
+    {
+        "Time": "8:30 AM",
+        "Program": "Truth For Life",
+        "Speaker": "Alistair Begg",
+        "ID": "114",
+        "Website": "https://www.truthforlife.org"
     },
     {
         "Time": "9:00 AM",
         "Program": "Unshackled!",
         "Speaker": "Pacific Garden Mission",
         "ID": "103",
-        "Website": "https://unshackled.org/listen/browse-all-programs/"
+        "Website": "https://unshackled.org"
     },
     {
         "Time": "9:30 AM",
         "Program": "Thru The Bible Radio",
         "Speaker": "J. Vernon McGee",
         "ID": "104",
-        "Website": "http://ttb.org/programs/the-5-year-study"
+        "Website": "http://ttb.org"
     },
     {
-        "Time": "10:00 AM",
-        "Program": "Prophecy Today Intelligence Briefing",
-        "Speaker": "Jimmy DeYoung",
-        "ID": "105",
-        "Website": "http://prophecytoday.com/premium/intelligence-briefing/"
+        "Time": "1899-12-30T18:00:00.000Z",
+        "Program": "Generations",
+        "Speaker": "Kevin Swanson",
+        "ID": 131,
+        "Website": "http://www.generations.org"
     },
     {
-        "Time": "10:15 AM",
-        "Program": "Messianic Perspectives",
-        "Speaker": "Gary Hedrick",
-        "ID": "106",
-        "Website": "http://www.cjfm.org/"
-    },
-    {
-        "Time": "10:30 AM",
-        "Program": "Hope for Today",
-        "Speaker": "David Hocking",
-        "ID": "107",
-        "Website": "http://www.davidhocking.org/radio-archive.php"
+        "Time": "1899-12-30T18:45:00.000Z",
+        "Program": "Naomi's Table ",
+        "Speaker": "Amy Spreeman",
+        "ID": 146,
+        "Website": "http://naomistable.com"
     },
     {
         "Time": "11:00 AM",
-        "Program": "Bible Tract Echoes",
-        "Speaker": "Mark Smith",
-        "ID": "108",
-        "Website": "http://www.bibletractsinc.org/"
+        "Program": "Messianic Perspectives",
+        "Speaker": "Gary Hedrick",
+        "ID": "106",
+        "Website": "http://www.cjfm.org"
     },
     {
-        "Time": "11:30 AM",
+        "Time": "11:15 AM",
         "Program": "Fortress of Faith",
         "Speaker": "Tom Wallace",
         "ID": "109",
-        "Website": "http://www.fortressoffaith.org/daily-programs/"
+        "Website": "http://www.fortressoffaith.org"
+    },
+    {
+        "Time": "11:30 AM",
+        "Program": "Science, Scripture, & Salvation   ",
+        "Speaker": "Chris O'Brien",
+        "ID": 120,
+        "Website": "http://www.icr.org"
+    },
+    {
+        "Time": "11:45 AM",
+        "Program": "Spritual Research Network-SRN",
+        "Speaker": "Chris Lawson",
+        "ID": 146,
+        "Website": "https://www.spiritualresearchnetwork.com/"
     },
     {
         "Time": "12:00 PM",
         "Program": "Sunday Message Rebroadcast",
         "Speaker": "Pastor Steve Shively",
         "ID": "100",
-        "Website": "http://refugechurch.info/media/audio"
+        "Website": "http://refugechurch.info"
     },
     {
-        "Time": "1:00 PM",
-        "Program": "Truth For Life",
-        "Speaker": "Alistair Begg",
-        "ID": "114",
-        "Website": "https://www.truthforlife.org/broadcasts/archive/"
+        "Time": "1899-12-30T21:00:00.000Z",
+        "Program": "The Word For Today",
+        "Speaker": "Chuck Smith",
+        "ID": 134,
+        "Website": "http://thewordfortoday.org"
     },
     {
-        "Time": "1:30 PM",
+        "Time": "1:30 AM",
         "Program": "Grace to You",
         "Speaker": "John MacArthur",
         "ID": "115",
-        "Website": "https://www.gty.org/resources/recentmessages"
+        "Website": "https://www.gty.org"
     },
     {
         "Time": "2:00 PM",
         "Program": "Crosstalk",
         "Speaker": "Jim Schneider",
         "ID": "116",
-        "Website": "http://www.vcyamerica.org/crosstalk.htm"
+        "Website": "http://www.vcyamerica.org"
     },
     {
         "Time": "3:00 PM",
         "Program": "Stand Up For The Truth",
         "Speaker": "Mike LeMay",
         "ID": "117",
-        "Website": "http://standupforthetruth.com/"
+        "Website": "http://standupforthetruth.com"
     },
     {
         "Time": "4:00 PM",
         "Program": "God's Word is Still True",
         "Speaker": "Pastor Steve Shively",
         "ID": "102",
-        "Website": "http://refugechurch.info/media/audio-archive"
+        "Website": "http://refugechurch.info"
+    },
+    {
+        "Time": "4:30 PM",
+        "Program": "Prophecy Today Intelligence Briefing",
+        "Speaker": "Jimmy DeYoung",
+        "ID": "105",
+        "Website": "http://prophecytoday.com"
     },
     {
         "Time": "5:00 PM",
         "Program": "Unshackled!",
         "Speaker": "Pacific Garden Mission",
         "ID": "103",
-        "Website": "https://unshackled.org/listen/browse-all-programs/"
+        "Website": "https://unshackled.org"
     },
     {
-        "Time": "5:30 PM",
-        "Program": "Thru The Bible Radio",
-        "Speaker": "J. Vernon McGee",
-        "ID": "104",
-        "Website": "http://ttb.org/programs/the-5-year-study"
+        "Time": "1899-12-31T01:30:00.000Z",
+        "Program": "The Contender",
+        "Speaker": "Various",
+        "ID": "144",
+        "Website": ""
     },
     {
         "Time": "6:00 PM",
-        "Program": "Prophecy Today Intelligence Briefing",
-        "Speaker": "Jimmy DeYoung",
-        "ID": "105",
-        "Website": "http://prophecytoday.com/premium/intelligence-briefing/"
-    },
-    {
-        "Time": "6:15 PM",
-        "Program": "Messianic Perspectives",
-        "Speaker": "Gary Hedrick",
-        "ID": "106",
-        "Website": "http://www.cjfm.org/"
+        "Program": "Money Wise",
+        "Speaker": "Jack Hibbard",
+        "ID": 135,
+        "Website": "http://www.compass1.org"
     },
     {
         "Time": "6:30 PM",
-        "Program": "Hope for Today",
-        "Speaker": "David Hocking",
-        "ID": "107",
-        "Website": "http://www.davidhocking.org/radio-archive.php"
-    },
-    {
-        "Time": "7:00 PM",
         "Program": "Bible Tract Echoes",
         "Speaker": "Mark Smith",
         "ID": "108",
-        "Website": "http://www.bibletractsinc.org/"
+        "Website": "http://www.bibletractsinc.org"
+    },
+    {
+        "Time": "1899-12-31T03:00:00.000Z",
+        "Program": "Search the Scriptures 24-7 Archives",
+        "Speaker": "T.A. McMahon",
+        "ID": "112",
+        "Website": "http://www.thebereancall.org"
     },
     {
         "Time": "7:30 PM",
-        "Program": "Fortress of Faith",
-        "Speaker": "Tom Wallace",
-        "ID": "109",
-        "Website": "http://www.fortressoffaith.org/daily-programs/"
+        "Program": "Revealing The Truth About Islam",
+        "Speaker": "Usama Dadok",
+        "ID": 136,
+        "Website": "http://www.thestraightway.org"
     },
     {
         "Time": "8:00 PM",
-        "Program": "Sunday Message Rebroadcast",
-        "Speaker": "Pastor Steve Shively",
-        "ID": "100",
-        "Website": "http://refugechurch.info/media/audio"
+        "Program": "Table Talk with Mike and Nancy LeMay",
+        "Speaker": "Mike and Nancy LeMay",
+        "ID": 137,
+        "Website": "https://mikeandnancy.life"
     },
     {
         "Time": "9:00 PM",
-        "Program": "Truth For Life",
-        "Speaker": "Alistair Begg",
-        "ID": "114",
-        "Website": "https://www.truthforlife.org/broadcasts/archive/"
+        "Program": "Hope for Today",
+        "Speaker": "David Hocking",
+        "ID": "107",
+        "Website": "http://www.davidhocking.org"
     },
     {
         "Time": "9:30 PM",
-        "Program": "Grace to You",
-        "Speaker": "John MacArthur",
-        "ID": "115",
-        "Website": "https://www.gty.org/resources/recentmessages"
+        "Program": "Viewpoint on Mormonisim",
+        "Speaker": "Bill McKeever",
+        "ID": "140",
+        "Website": "http://www.mrm.org"
     },
     {
-        "Time": "10:00 PM",
-        "Program": "Crosstalk",
-        "Speaker": "Jim Schneider",
-        "ID": "116",
-        "Website": "http://www.vcyamerica.org/crosstalk.htm"
+        "Time": "1899-12-31T06:00:00.000Z",
+        "Program": "Messianic Perspectives",
+        "Speaker": "Gary Hedrick",
+        "ID": "106",
+        "Website": "http://www.cjfm.org"
+    },
+    {
+        "Time": "1899-12-31T06:15:00.000Z",
+        "Program": "Naomi's Table ",
+        "Speaker": "Amy Spreeman",
+        "ID": 146,
+        "Website": "http://naomistable.com"
+    },
+    {
+        "Time": "1899-12-31T06:30:00.000Z",
+        "Program": "Mini Bible College OT",
+        "Speaker": "Dick Woodward",
+        "ID": 129,
+        "Website": "http://mbc.icm.org"
     },
     {
         "Time": "11:00 PM",
-        "Program": "Stand Up For The Truth",
-        "Speaker": "Mike LeMay",
-        "ID": "117",
-        "Website": "http://standupforthetruth.com/"
+        "Program": "Crosstalk",
+        "Speaker": "Jim Schneider",
+        "ID": "116",
+        "Website": "http://www.vcyamerica.org"
     }
 ]

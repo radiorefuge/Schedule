@@ -1,191 +1,254 @@
 [
     {
-        "Time": "12:00 AM",
-        "Program": "Mid-Week Message Rebroadcast",
-        "Speaker": "Pastor Steve Shively",
-        "ID": "101",
-        "Website": "http://refugechurch.info/media/audio"
-    },
-    {
-        "Time": "1:00 AM",
-        "Program": "The Prince of Preachers",
-        "Speaker": "Charles Spurgeon",
-        "ID": "122",
-        "Website": "http://www.spurgeongems.org/audio.htm"
-    },
-    {
-        "Time": "2:00 AM",
-        "Program": "Back to the Bible",
-        "Speaker": "Warren Wiersbe",
-        "ID": "123",
-        "Website": "https://www.backtothebible.org/broadcast"
-    },
-    {
-        "Time": "2:30 AM",
-        "Program": "Encounter God's Truth",
-        "Speaker": "John Whitcomb",
-        "ID": "119",
-        "Website": "http://www.whitcombministries.org/"
-    },
-    {
-        "Time": "3:00 AM",
-        "Program": "Thru The Bible Radio",
-        "Speaker": "J. Vernon McGee",
-        "ID": "124",
-        "Website": "http://ttb.org/programs/sunday-sermon"
-    },
-    {
-        "Time": "4:00 AM",
+        "Sun_Time": "12:00 AM",
         "Program": "God's Word is Still True Weekend",
         "Speaker": "Pastor Steve Shively",
         "ID": "102",
-        "Website": "http://refugechurch.info/media/audio-archive"
+        "Website": "http://refugechurch.info"
     },
     {
-        "Time": "5:00 AM",
-        "Program": "Prophecy Today Weekend",
-        "Speaker": "Jimmy DeYoung",
-        "ID": "125",
-        "Website": "http://prophecytoday.com/html/weekly.php"
-    },
-    {
-        "Time": "6:30 AM",
+        "Sun_Time": "1:00 AM",
         "Program": "Unshackled!",
         "Speaker": "Pacific Garden Mission",
         "ID": "103",
-        "Website": "https://unshackled.org/listen/browse-all-programs/"
+        "Website": "https://unshackled.org"
     },
     {
-        "Time": "7:00 AM",
-        "Program": "Stand Up For The Truth - The Best Of",
-        "Speaker": "Mike LeMay",
-        "ID": "117",
-        "Website": "http://standupforthetruth.com/"
+        "Sun_Time": "1:30 AM",
+        "Program": "Creation Training Initiative",
+        "Speaker": "Mike Riddle",
+        "ID": 132,
+        "Website": "http://www.creationtraining.org"
     },
     {
-        "Time": "8:00 AM",
+        "Sun_Time": "2:00 AM",
+        "Program": "Love for the Truth Radio",
+        "Speaker": "Cindy Hartline",
+        "ID": "111",
+        "Website": "http://www.loveforthetruthradio.com"
+    },
+    {
+        "Sun_Time": "3:00 AM",
+        "Program": "The Friends of Israel Today",
+        "Speaker": "Chris Katulka",
+        "ID": "113",
+        "Website": "http://radio.foi.org"
+    },
+    {
+        "Sun_Time": "3:30 AM",
+        "Program": "The Word For Today Weekend",
+        "Speaker": "Chuck Smith",
+        "ID": 134,
+        "Website": "http://thewordfortoday.org"
+    },
+    {
+        "Sun_Time": "4:00 AM",
+        "Program": "Understanding the Times Radio",
+        "Speaker": "Jan Markell",
+        "ID": "110",
+        "Website": "http://www.olivetreeviews.org"
+    },
+    {
+        "Sun_Time": "5:00 AM",
+        "Program": "Table Talk with Mike and Nancy LeMay",
+        "Speaker": "Mike and Nancy LeMay",
+        "ID": 143,
+        "Website": "https://mikeandnancy.life"
+    },
+    {
+        "Sun_Time": "6:00 AM",
+        "Program": "Unshackled!",
+        "Speaker": "Pacific Garden Mission",
+        "ID": "103",
+        "Website": "https://unshackled.org"
+    },
+    {
+        "Sun_Time": "6:30 AM",
+        "Program": "Search the Scriptures 24-7",
+        "Speaker": "T.A. McMahon",
+        "ID": "112",
+        "Website": "http://www.thebereancall.org"
+    },
+    {
+        "Sun_Time": "7:00 AM",
+        "Program": "Money Wise Weekend",
+        "Speaker": "Jack Hibbard",
+        "ID": 145,
+        "Website": "http://www.compass1.org"
+    },
+    {
+        "Sun_Time": "7:30 AM",
+        "Program": "The Dacus Report",
+        "Speaker": "Brad Dacus",
+        "ID": "121",
+        "Website": "http://www.pacificjustice.org"
+    },
+    {
+        "Sun_Time": "8:00 AM",
         "Program": "Mid-Week Message Rebroadcast",
         "Speaker": "Pastor Steve Shively",
         "ID": "101",
-        "Website": "http://refugechurch.info/media/audio"
+        "Website": "http://refugechurch.info"
     },
     {
-        "Time": "9:00 AM",
+        "Sun_Time": "9:00 AM",
+        "Program": "J. Vernon McGee Sunday Sermon",
+        "Speaker": "J. Vernon McGee",
+        "ID": "124",
+        "Website": "http://ttb.org"
+    },
+    {
+        "Sun_Time": "10:00 AM",
+        "Program": "Science, Scripture, & Salvation   ",
+        "Speaker": "Chris O'Brien",
+        "ID": 120,
+        "Website": "http://www.icr.orgr"
+    },
+    {
+        "Sun_Time": "10:15 AM",
+        "Program": "Spritual Research Network-SRN",
+        "Speaker": "Chris Lawson",
+        "ID": 146,
+        "Website": "https://www.spiritualresearchnetwork.com/"
+    },
+    {
+        "Sun_Time": "10:30 AM",
+        "Program": "The Story Teller",
+        "Speaker": "Without Reservation",
+        "ID": "126",
+        "Website": "http://www.withoutreservation.com"
+    },
+    {
+        "Sun_Time": "11:00 AM",
         "Program": "The Prince of Preachers",
         "Speaker": "Charles Spurgeon",
         "ID": "122",
-        "Website": "http://www.spurgeongems.org/audio.htm"
+        "Website": "http://www.spurgeongems.org"
     },
     {
-        "Time": "10:00 AM",
-        "Program": "Back to the Bible",
-        "Speaker": "Warren Wiersbe",
-        "ID": "123",
-        "Website": "https://www.backtothebible.org/broadcast"
+        "Sun_Time": "12:00 PM",
+        "Program": "Christian Worldview",
+        "Speaker": "David Wheaton",
+        "ID": "138",
+        "Website": "https://www.thechristianworldview.org"
     },
     {
-        "Time": "10:30 AM",
-        "Program": "Encounter God's Truth",
-        "Speaker": "John Whitcomb",
-        "ID": "119",
-        "Website": "http://www.whitcombministries.org/"
-    },
-    {
-        "Time": "11:00 AM",
-        "Program": "Thru The Bible Radio",
-        "Speaker": "J. Vernon McGee",
-        "ID": "124",
-        "Website": "http://ttb.org/programs/sunday-sermon"
-    },
-    {
-        "Time": "12:00 PM",
-        "Program": "God's Word is Still True Weekend",
-        "Speaker": "Pastor Steve Shively",
-        "ID": "102",
-        "Website": "http://refugechurch.info/media/audio-archive"
-    },
-    {
-        "Time": "1:00 PM",
+        "Sun_Time": "1:00 PM",
         "Program": "Prophecy Today Weekend",
         "Speaker": "Jimmy DeYoung",
         "ID": "125",
-        "Website": "http://prophecytoday.com/html/weekly.php"
+        "Website": "http://prophecytoday.com"
     },
     {
-        "Time": "2:30 PM",
-        "Program": "Unshackled!",
-        "Speaker": "Pacific Garden Mission",
-        "ID": "103",
-        "Website": "https://unshackled.org/listen/browse-all-programs/"
-    },
-    {
-        "Time": "3:00 PM",
-        "Program": "Stand Up For The Truth - The Best Of",
-        "Speaker": "Mike LeMay",
-        "ID": "117",
-        "Website": "http://standupforthetruth.com/"
-    },
-    {
-        "Time": "4:00 PM",
-        "Program": "Mid-Week Message Rebroadcast",
-        "Speaker": "Pastor Steve Shively",
-        "ID": "101",
-        "Website": "http://refugechurch.info/media/audio"
-    },
-    {
-        "Time": "5:00 PM",
-        "Program": "The Prince of Preachers",
-        "Speaker": "Charles Spurgeon",
-        "ID": "122",
-        "Website": "http://www.spurgeongems.org/audio.htm"
-    },
-    {
-        "Time": "6:00 PM",
-        "Program": "Back to the Bible",
-        "Speaker": "Warren Wiersbe",
-        "ID": "123",
-        "Website": "https://www.backtothebible.org/broadcast"
-    },
-    {
-        "Time": "6:30 PM",
-        "Program": "Encounter God's Truth",
-        "Speaker": "John Whitcomb",
-        "ID": "119",
-        "Website": "http://www.whitcombministries.org/"
-    },
-    {
-        "Time": "7:00 PM",
-        "Program": "Thru The Bible Radio",
-        "Speaker": "J. Vernon McGee",
-        "ID": "124",
-        "Website": "http://ttb.org/programs/sunday-sermon"
-    },
-    {
-        "Time": "8:00 PM",
-        "Program": "God's Word is Still True Weekend",
-        "Speaker": "Pastor Steve Shively",
-        "ID": "102",
-        "Website": "http://refugechurch.info/media/audio-archive"
-    },
-    {
-        "Time": "9:00 PM",
+        "Sun_Time": "2:00 PM",
         "Program": "Prophecy Today Weekend",
         "Speaker": "Jimmy DeYoung",
         "ID": "125",
-        "Website": "http://prophecytoday.com/html/weekly.php"
+        "Website": "http://prophecytoday.com"
     },
     {
-        "Time": "10:30 PM",
+        "Sun_Time": "2:30 PM",
+        "Program": "Essential Christianity",
+        "Speaker": "Walter Martin",
+        "ID": 142,
+        "Website": "http://www.waltermartin.com"
+    },
+    {
+        "Sun_Time": "3:00 PM",
+        "Program": "The Contender",
+        "Speaker": "Various",
+        "ID": "144",
+        "Website": ""
+    },
+    {
+        "Sun_Time": "3:30 PM",
+        "Program": "The Word For Today Weekend",
+        "Speaker": "Chuck Smith",
+        "ID": 134,
+        "Website": "http://thewordfortoday.org"
+    },
+    {
+        "Sun_Time": "4:00 PM",
+        "Program": "God's Word is Still True Weekend",
+        "Speaker": "Pastor Steve Shively",
+        "ID": "102",
+        "Website": "http://refugechurch.infoe"
+    },
+    {
+        "Sun_Time": "5:00 PM",
+        "Program": "Noise of Thunder",
+        "Speaker": "Chris Pinto",
+        "ID": 139,
+        "Website": "http://www.noiseofthunderradio.com"
+    },
+    {
+        "Sun_Time": "6:00 PM",
+        "Program": "James Vernon McGee Spanish",
+        "Speaker": "James Vernon McGee",
+        "ID": 144,
+        "Website": "www.transmundial.org/emisoras"
+    },
+    {
+        "Sun_Time": "6:30 PM",
+        "Program": "Unshackled Spanish",
+        "Speaker": "Pacific Garden Mission",
+        "ID": "145",
+        "Website": "https://unshackled.org"
+    },
+    {
+        "Sun_Time": "7:00 PM",
+        "Program": "Refuge Church Spanish Ministry",
+        "Speaker": "Aldo Soto",
+        "ID": "118",
+        "Website": "http://refugechurch.info"
+    },
+    {
+        "Sun_Time": "8:00 PM",
+        "Program": "The Story Teller",
+        "Speaker": "Without Reservation",
+        "ID": "126",
+        "Website": "http://www.withoutreservation.com"
+    },
+    {
+        "Sun_Time": "8:30 PM",
+        "Program": "The Friends of Israel Today",
+        "Speaker": "Chris Katulka",
+        "ID": "113",
+        "Website": "http://radio.foi.org/category"
+    },
+    {
+        "Sun_Time": "9:00 PM",
         "Program": "Unshackled!",
         "Speaker": "Pacific Garden Mission",
         "ID": "103",
-        "Website": "https://unshackled.org/listen/browse-all-programs/"
+        "Website": "https://unshackled.org"
     },
     {
-        "Time": "11:00 PM",
-        "Program": "Stand Up For The Truth - The Best Of",
-        "Speaker": "Mike LeMay",
-        "ID": "117",
-        "Website": "http://standupforthetruth.com/"
+        "Sun_Time": "9:30 PM",
+        "Program": "James Vernon McGee Q&A",
+        "Speaker": "James Vernon McGee",
+        "ID": "143",
+        "Website": "http://www.ttb.org"
+    },
+    {
+        "Sun_Time": "1899-12-31T06:00:00.000Z",
+        "Program": "His Way Out",
+        "Speaker": "Phillip Lee",
+        "ID": 133,
+        "Website": "http://hiswayout.com"
+    },
+    {
+        "Sun_Time": "10:30 PM",
+        "Program": "Encounter God's Truth",
+        "Speaker": "John Whitcomb",
+        "ID": "119",
+        "Website": "http://www.whitcombministries.org"
+    },
+    {
+        "Sun_Time": "11:00 PM",
+        "Program": "Understanding the Times Radio",
+        "Speaker": "Jan Markell",
+        "ID": "110",
+        "Website": "http://www.olivetreeviews.org"
     }
 ]
