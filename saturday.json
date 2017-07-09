@@ -1,244 +1,244 @@
 [
     {
-        "SAT_Time": "12:00 AM",
+        "Time": "12:00 AM",
         "Program": "God's Word is Still True Weekend",
         "Speaker": "Pastor Steve Shively",
         "ID": "102",
         "Website": "http://refugechurch.info"
     },
     {
-        "SAT_Time": "1:00 AM",
+        "Time": "1:00 AM",
         "Program": "Unshackled!",
         "Speaker": "Pacific Garden Mission",
         "ID": "103",
         "Website": "https://unshackled.org"
     },
     {
-        "SAT_Time": "1:30 AM",
+        "Time": "1:30 AM",
         "Program": "Search the Scriptures 24-7",
         "Speaker": "T.A. McMahon",
         "ID": "112",
         "Website": "http://www.thebereancall.org"
     },
     {
-        "SAT_Time": "2:00 AM",
+        "Time": "2:00 AM",
         "Program": "Prophecy Today Weekend",
         "Speaker": "Jimmy DeYoung",
         "ID": "125",
         "Website": "http://prophecytoday.com"
     },
     {
-        "SAT_Time": "2:30 AM",
+        "Time": "2:30 AM",
         "Program": "Prophecy Today Weekend",
         "Speaker": "Jimmy DeYoung",
         "ID": "125",
         "Website": "http://prophecytoday.com"
     },
     {
-        "SAT_Time": "3:30 AM",
+        "Time": "3:30 AM",
         "Program": "James Vernon McGee Q&A",
         "Speaker": "James Vernon McGee",
         "ID": "143",
         "Website": "http://www.ttb.org"
     },
     {
-        "SAT_Time": "4:00 AM",
+        "Time": "4:00 AM",
         "Program": "The Prince of Preachers",
         "Speaker": "Charles Spurgeon",
         "ID": "122",
         "Website": "http://www.spurgeongems.org"
     },
     {
-        "SAT_Time": "5:00 AM",
+        "Time": "5:00 AM",
         "Program": "Noise of Thunder",
         "Speaker": "Chris Pinto",
         "ID": 139,
         "Website": "http://www.noiseofthunderradio.com"
     },
     {
-        "SAT_Time": "6:00 AM",
+        "Time": "6:00 AM",
         "Program": "James Vernon McGee Spanish",
         "Speaker": "James Vernon McGee",
         "ID": 144,
         "Website": "www.transmundial.org"
     },
     {
-        "SAT_Time": "6:30 AM",
+        "Time": "6:30 AM",
         "Program": "Unshackled Spanish",
         "Speaker": "Pacific Garden Mission",
         "ID": "145",
         "Website": "https://unshackled.org"
     },
     {
-        "SAT_Time": "7:00 AM",
+        "Time": "7:00 AM",
         "Program": "Refuge Church Spanish Ministry",
         "Speaker": "Aldo Soto",
         "ID": "118",
         "Website": "http://refugechurch.info"
     },
     {
-        "SAT_Time": "8:00 AM",
+        "Time": "8:00 AM",
         "Program": "The Story Teller",
         "Speaker": "Without Reservation",
         "ID": "126",
         "Website": "http://www.withoutreservation.com"
     },
     {
-        "SAT_Time": "8:30 AM",
+        "Time": "8:30 AM",
         "Program": "Unshackled!",
         "Speaker": "Pacific Garden Mission",
         "ID": "103",
         "Website": "https://unshackled.org"
     },
     {
-        "SAT_Time": "9:00 AM",
+        "Time": "9:00 AM",
         "Program": "Sunday Message Rebroadcast",
         "Speaker": "Pastor Steve Shively",
         "ID": "100",
         "Website": "http://refugechurch.info"
     },
     {
-        "SAT_Time": "10:00 AM",
+        "Time": "10:00 AM",
         "Program": "His Way Out",
         "Speaker": "Phillip Lee",
         "ID": 133,
         "Website": "http://hiswayout.com"
     },
     {
-        "SAT_Time": "10:30 AM",
+        "Time": "10:30 AM",
         "Program": "Encounter God's Truth",
         "Speaker": "John Whitcomb",
         "ID": "119",
         "Website": "http://www.whitcombministries.org"
     },
     {
-        "SAT_Time": "11:00 AM",
+        "Time": "11:00 AM",
         "Program": "Understanding the Times Radio",
         "Speaker": "Jan Markell",
         "ID": "110",
         "Website": "http://www.olivetreeviews.org"
     },
     {
-        "SAT_Time": "12:00 PM",
+        "Time": "12:00 PM",
         "Program": "Table Talk with Mike and Nancy LeMay",
         "Speaker": "Mike and Nancy LeMay",
         "ID": 143,
         "Website": "https://mikeandnancy.life"
     },
     {
-        "SAT_Time": "1:00 PM",
+        "Time": "1:00 PM",
         "Program": "Search the Scriptures 24-7",
         "Speaker": "T.A. McMahon",
         "ID": "112",
         "Website": "http://www.thebereancall.org"
     },
     {
-        "SAT_Time": "1:30 PM",
+        "Time": "1:30 PM",
         "Program": "Creation Training Initiative",
         "Speaker": "Mike Riddle",
         "ID": 132,
         "Website": "http://www.creationtraining.org"
     },
     {
-        "SAT_Time": "2:00 PM",
+        "Time": "2:00 PM",
         "Program": "The Friends of Israel Today",
         "Speaker": "Chris Katulka",
         "ID": "113",
         "Website": "http://radio.foi.org"
     },
     {
-        "SAT_Time": "2:30 PM",
+        "Time": "2:30 PM",
         "Program": "The Dacus Report",
         "Speaker": "Brad Dacus",
         "ID": "121",
         "Website": "http://www.pacificjustice.org"
     },
     {
-        "SAT_Time": "3:00 PM",
+        "Time": "3:00 PM",
         "Program": "Love for the Truth Radio",
         "Speaker": "Cindy Hartline",
         "ID": "111",
         "Website": "http://www.loveforthetruthradio.com"
     },
     {
-        "SAT_Time": "4:00 PM",
+        "Time": "4:00 PM",
         "Program": "God's Word is Still True Weekend",
         "Speaker": "Pastor Steve Shively",
         "ID": "102",
         "Website": "http://refugechurch.info"
     },
     {
-        "SAT_Time": "5:00 PM",
+        "Time": "5:00 PM",
         "Program": "Unshackled!",
         "Speaker": "Pacific Garden Mission",
         "ID": "103",
         "Website": "https://unshackled.org"
     },
     {
-        "SAT_Time": "5:30 PM",
+        "Time": "5:30 PM",
         "Program": "The Contender",
         "Speaker": "Various",
         "ID": "144",
         "Website": ""
     },
     {
-        "SAT_Time": "6:00 PM",
+        "Time": "6:00 PM",
         "Program": "Prophecy Today Weekend",
         "Speaker": "Jimmy DeYoung",
         "ID": "125",
         "Website": "http://prophecytoday.com"
     },
     {
-        "SAT_Time": "7:00 PM",
+        "Time": "7:00 PM",
         "Program": "Prophecy Today Weekend",
         "Speaker": "Jimmy DeYoung",
         "ID": "125",
         "Website": "http://prophecytoday.com"
     },
     {
-        "SAT_Time": "1899-12-31T03:30:00.000Z",
+        "Time": "1899-12-31T03:30:00.000Z",
         "Program": "Essential Christianity",
         "Speaker": "Walter Martin",
         "ID": 142,
         "Website": "http://www.waltermartin.com"
     },
     {
-        "SAT_Time": "8:00 PM",
+        "Time": "8:00 PM",
         "Program": "Wretched Weekend",
         "Speaker": "Todd Friels",
         "ID": 130,
         "Website": "http://www.wretchedradio.com"
     },
     {
-        "SAT_Time": "9:00 PM",
+        "Time": "9:00 PM",
         "Program": "J. Vernon McGee Sunday Sermon",
         "Speaker": "J. Vernon McGee",
         "ID": "124",
         "Website": "http://ttb.org"
     },
     {
-        "SAT_Time": "10:00 PM",
+        "Time": "10:00 PM",
         "Program": "Science, Scripture, & Salvation",
         "Speaker": "Chris O'Brien",
         "ID": "120",
         "Website": "http://www.icr.org"
     },
     {
-        "SAT_Time": "10:30 PM",
+        "Time": "10:30 PM",
         "Program": "The Story Teller",
         "Speaker": "Without Reservation",
         "ID": "126",
         "Website": "http://www.withoutreservation.com"
     },
     {
-        "SAT_Time": "10:45 PM",
+        "Time": "10:45 PM",
         "Program": "Spritual Research Network-SRN",
         "Speaker": "Chris Lawson",
         "ID": 146,
         "Website": "https://www.spiritualresearchnetwork.com/"
     },
     {
-        "SAT_Time": "11:00 PM",
+        "Time": "11:00 PM",
         "Program": "Christian Worldview",
         "Speaker": "David Wheaton",
         "ID": "138",
