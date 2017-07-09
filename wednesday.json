@@ -84,7 +84,7 @@
         "Website": "http://mbc.icm.org"
     },
     {
-        "Time": "1899-12-30T14:30:00.000Z",
+        "Time": "6:30 AM",
         "Program": "Prophecy Today Intelligence Briefing",
         "Speaker": "Jimmy DeYoung",
         "ID": "105",
@@ -126,14 +126,14 @@
         "Website": "http://ttb.org"
     },
     {
-        "Time": "1899-12-30T18:00:00.000Z",
+        "Time": "10:00 AM",
         "Program": "Generations",
         "Speaker": "Kevin Swanson",
         "ID": 131,
         "Website": "http://www.generations.org"
     },
     {
-        "Time": "1899-12-30T18:45:00.000Z",
+        "Time": "10:45 AM",
         "Program": "Naomi's Table ",
         "Speaker": "Amy Spreeman",
         "ID": 146,
@@ -168,7 +168,7 @@
         "Website": "http://www.loveforthetruthradio.com"
     },
     {
-        "Time": "1899-12-30T21:00:00.000Z",
+        "Time": "1:00 PM",
         "Program": "Word For Today",
         "Speaker": "Chuck Smith",
         "ID": 134,
@@ -217,7 +217,7 @@
         "Website": "https://unshackled.org"
     },
     {
-        "Time": "1899-12-31T01:30:00.000Z",
+        "Time": "5:30 PM",
         "Program": "The Contender",
         "Speaker": "Various",
         "ID": "144",
@@ -238,7 +238,7 @@
         "Website": "http://www.bibletractsinc.org"
     },
     {
-        "Time": "1899-12-31T03:00:00.000Z",
+        "Time": "7:00 PM",
         "Program": "Search the Scriptures 24-7 Archives",
         "Speaker": "T.A. McMahon",
         "ID": "112",
@@ -266,21 +266,28 @@
         "Website": "http://www.davidhocking.org"
     },
     {
-        "Time": "1899-12-31T06:00:00.000Z",
+        "Time": "9:30 PM",
+        "Program": "Viewpoint on Mormonisim",
+        "Speaker": "Bill McKeever",
+        "ID": "140",
+        "Website": "http://www.mrm.org"
+    },
+    {
+        "Time": "10:00 PM",
         "Program": "Messianic Perspectives",
         "Speaker": "Gary Hedrick",
         "ID": "106",
         "Website": "http://www.cjfm.org"
     },
     {
-        "Time": "1899-12-31T06:15:00.000Z",
+        "Time": "10:15 PM",
         "Program": "Naomi's Table ",
         "Speaker": "Amy Spreeman",
         "ID": 146,
         "Website": "http://naomistable.com"
     },
     {
-        "Time": "1899-12-31T06:30:00.000Z",
+        "Time": "10:30 PM",
         "Program": "Mini Bible College OT",
         "Speaker": "Dick Woodward",
         "ID": 129,
