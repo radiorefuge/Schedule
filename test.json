@@ -1,1 +1,15 @@
-﻿[{"retries": "ret","total_results": "tot","items_per_page": "","start_index": "sta","facets": "fac","facet_values": "fac","suggestions": "sug","radius": "rad","start_date": "sta","boost": "boo","sort": "sor"}]
+﻿[
+    {
+        "retries": "ret",
+        "total_results": "tot",
+        "items_per_page": "",
+        "start_index": "sta",
+        "facets": "fac",
+        "facet_values": "fac",
+        "suggestions": "sug",
+        "radius": "rad",
+        "start_date": "sta",
+        "boost": "boo",
+        "sort": "sor"
+    }
+]
