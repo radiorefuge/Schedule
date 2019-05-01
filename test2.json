@@ -1,0 +1,3272 @@
+﻿{
+    "retries": 0,
+    "total_results": 112,
+    "items_per_page": 10,
+    "start_index": 0,
+    "facets": [],
+    "facet_values": [],
+    "suggestions": [],
+    "results": [
+        {
+            "assetTopics": [
+                {
+                    "sequence": "1",
+                    "topic": {
+                        "topicId": "31",
+                        "topicName": "Fitness",
+                        "topicTaxonomy": "Fitness and well-being/Fitness"
+                    }
+                },
+                {
+                    "sequence": "2",
+                    "topic": {
+                        "topicId": "451",
+                        "topicName": "Swimming",
+                        "topicTaxonomy": "Sports/Water sports/Swimming"
+                    }
+                }
+            ],
+            "salesEndDate": "2019-05-14T08:00:00",
+            "regReqGenderCd": "C",
+            "registrationUrlAdr": "",
+            "retryDate": "2019-01-15T20:35:44",
+            "evergreenAssets": [],
+            "assetSeoUrls": [],
+            "publishDate": null,
+            "assetChannels": [
+                {
+                    "sequence": "1",
+                    "channel": {
+                        "channelDsc": "",
+                        "channelName": "Fitness and well-being\\Health",
+                        "channelId": "2469"
+                    }
+                },
+                {
+                    "sequence": "2",
+                    "channel": {
+                        "channelDsc": "Fitness",
+                        "channelName": "Fitness",
+                        "channelId": "1009"
+                    }
+                },
+                {
+                    "sequence": "3",
+                    "channel": {
+                        "channelDsc": "",
+                        "channelName": "Water Fitness",
+                        "channelId": "1293"
+                    }
+                },
+                {
+                    "sequence": "4",
+                    "channel": {
+                        "channelDsc": "",
+                        "channelName": "Sports",
+                        "channelId": "1262"
+                    }
+                },
+                {
+                    "sequence": "5",
+                    "channel": {
+                        "channelDsc": "Swimming",
+                        "channelName": "Swimming",
+                        "channelId": "1024"
+                    }
+                }
+            ],
+            "sorCreateDtm": null,
+            "sponsoredContent": {},
+            "dynamicPriceIncluded": "false",
+            "localeCd": "",
+            "activityRecurrences": [
+                {
+                    "frequencyInterval": "0",
+                    "activityStartDate": "2019-05-14T00:00:00",
+                    "activityExclusions": [],
+                    "activityEndDate": "2019-05-23T00:00:00",
+                    "days": "Tuesday, Thursday",
+                    "startTime": "16:10:00",
+                    "endTime": "16:40:00",
+                    "frequency": {
+                        "frequencyName": "Weekly"
+                    }
+                }
+            ],
+            "assetLegacyData": {
+                "maxTeamNb": "",
+                "assetTypeId": "FB27C928-54DB-4ECD-B42F-482FC3C8681F",
+                "costAmt": "",
+                "typeName": "",
+                "uploadSearchUrlAdr": "",
+                "avgUserRatingTxt": "",
+                "trackbackUrl": "",
+                "seoUrl": "",
+                "eventCategories": "",
+                "estParticipantNb": "",
+                "participationCriteriaTxt": "",
+                "priceExtensionTxt": "",
+                "isSearchable": "false",
+                "onlineMembership": "",
+                "minGuaranteedGameNb": "",
+                "searchWeight": "1.0000",
+                "userCommentTxt": "",
+                "substitutionUrl": "sloparksandrec/registrationmain.sdi?source=showAsset.sdi&activity_id=28442",
+                "onlineDonation": "",
+                "genderRequirementTxt": "",
+                "createdDate": "2018-12-03T20:29:35",
+                "onlineMembershipCostAmt": "",
+                "authorName": "",
+                "onlineRegistration": "true",
+                "modifiedDate": "2019-01-15T20:21:08",
+                "multipleStartDate": ""
+            },
+            "activityEndDate": "2019-05-23T23:40:00",
+            "assetDeals": [],
+            "assetServiceHostName": "prod-asset-01w",
+            "childIndex": "",
+            "assetDescriptions": [
+                {
+                    "descriptionType": {
+                        "descriptionTypeName": "Standard",
+                        "descriptionTypeId": "6"
+                    },
+                    "description": "<div><h4>Description</h4><p>A private swimming lesson is designed to maximize the individual instruction given to a particular student with a one to one student/teacher ratio. Semi-private lessons are available for family members or close friends that have students of a similar ability (first student pays full private fee; second student pays at half price. Enroll the first child to secure the spot and enrollment of additional swimmers will take place the first day of the lesson). <u>Refunds are not available for lessons; however, a credit can be provided.</u> For swim lessons, please use the side entrance to enter the SLO Swim Center.<hr align=\"center\" width=\"90%\"><div style=\"text-align:center;color:red;font-weight:bold;padding-left:4px;padding-right:4px\"><p style=\"margin: 0in 0in 0pt;\"><span style=\"font-family: \" calibri\",\"sans-serif\";=\"\" mso-ascii-theme-font:=\"\" minor-latin;=\"\" mso-hansi-theme-font:=\"\" minor-latin;\"=\"\"><strong>Refunds are NOT available for Swim Lessons, however credits may  be provided.</strong></span></p><div></p></div><div><h4>Activity Category</h4><p>Aquatics</p></div><div><h4>Location</h4><p>SLO Swim Center</p></div><div><h4>Instructor</h4><p>SLO Swim Center Staff</p></div>"
+                }
+            ],
+            "componentInUrlAdr": {},
+            "activityStartDate": "2019-05-14T23:10:00",
+            "volumePriceIncluded": "false",
+            "contactName": "",
+            "sorCreateUserId": "",
+            "localTimeZoneId": "America/Los_Angeles",
+            "socialMedia": [],
+            "donationUrlAdr": "",
+            "activenetTopGraphic": {},
+            "assetReferences": [],
+            "market": {},
+            "assetAttributes": [],
+            "timezoneAbb": "",
+            "assetMediaTypes": [
+                {
+                    "sequence": "1",
+                    "mediaType": {
+                        "mediaTypeName": "Events",
+                        "mediaTypeDsc": "",
+                        "mediaTypeId": "204"
+                    }
+                },
+                {
+                    "sequence": "2",
+                    "mediaType": {
+                        "mediaTypeName": "Class",
+                        "mediaTypeDsc": "",
+                        "mediaTypeId": "28"
+                    }
+                }
+            ],
+            "evergreenAssetFlag": "false",
+            "authorName": "",
+            "registrantSearchUrlAdr": "",
+            "modifiedDate": "2019-01-15T20:25:45",
+            "timezoneName": "",
+            "showContact": "false",
+            "assetParentAsset": {
+                "assetGuid": "f335a04d-8847-4b01-8a9b-f72ee1279272"
+            },
+            "assetStatus": {
+                "assetStatusId": "2",
+                "assetStatusName": "VISIBLE"
+            },
+            "regReqMaxAge": 17,
+            "currencyCd": "",
+            "resultsUrlAdr": "",
+            "assetImages": [],
+            "evergreenParentAsset": {},
+            "sourceSystem": {
+                "sourceSystemName": "ActiveNet",
+                "legacyGuid": "fb27c928-54db-4ecd-b42f-482fc3c8681f",
+                "affiliate": "true"
+            },
+            "assetGuid": "578f0589-29f5-410c-a51c-ea92f2a05fbc",
+            "timezone": "UTC",
+            "assetRootAsset": {},
+            "assetTags": [
+                {
+                    "tag": {
+                        "tagId": "32475",
+                        "tagName": "false",
+                        "tagDescription": "activeadvantage"
+                    }
+                },
+                {
+                    "tag": {
+                        "tagId": "2103",
+                        "tagName": "5280",
+                        "tagDescription": "MISCELLANEOUS"
+                    }
+                }
+            ],
+            "preferredUrlAdr": "",
+            "logoUrlAdr": "",
+            "assetPrices": [],
+            "detailPageTemplateId": "",
+            "assetComponents": [
+                {
+                    "activityStartDate": "2019-05-14T23:10:00",
+                    "assetSeoUrls": [],
+                    "assetGuid": "7e34e103-3696-4e90-8824-8babcceeb969",
+                    "activityEndDate": "2019-05-23T23:40:00",
+                    "assetName": "Spring Swim Lessons: Private - Session 5"
+                }
+            ],
+            "teamUrlAdr": "",
+            "sorId": "",
+            "place": {
+                "placeDsc": "",
+                "placeUrlAdr": "",
+                "showPlaceName": "true",
+                "timezone": "America/Los_Angeles",
+                "postalCode": "93401",
+                "latitude": "35.276221",
+                "directionsTxt": "",
+                "addressLine2Txt": "",
+                "geoPoint": {
+                    "lon": "-120.663991",
+                    "lat": "35.276221"
+                },
+                "addressLine1Txt": "1341 Nipomo St.",
+                "stateProvinceCode": "CA",
+                "localityName": "",
+                "cityName": "San Luis Obispo",
+                "timezoneOffset": -8,
+                "timezoneDST": 1,
+                "countryCode": "USA",
+                "dma": {
+                    "dmaId": "855",
+                    "dmaName": "Santa Barbara - Santa Maria - San Luis Obispo"
+                },
+                "countryName": "United States",
+                "placeGuid": "f25281d8-0df9-4281-9240-b8a8109c5199",
+                "placeName": "City of San Luis Obispo",
+                "longitude": "-120.663991"
+            },
+            "overrideSeourlFlag": "false",
+            "assetCategories": [
+                {
+                    "sequence": "1",
+                    "category": {
+                        "categoryName": "Event",
+                        "categoryId": "2",
+                        "categoryTaxonomy": "Event"
+                    }
+                },
+                {
+                    "sequence": "2",
+                    "category": {
+                        "categoryName": "Classes",
+                        "categoryId": "13",
+                        "categoryTaxonomy": "Event/Classes"
+                    }
+                }
+            ],
+            "urlAdr": "",
+            "retryCounter": "2",
+            "assetInterests": [],
+            "assetDsc": "",
+            "contactTxt": "",
+            "alternateName": "",
+            "regReqMinAge": 3,
+            "createdDate": "2018-12-03T20:29:35",
+            "assetMetaInterests": [],
+            "salesStartDate": "2018-12-03T09:00:00",
+            "homePageUrlAdr": "",
+            "assetQuantity": {
+                "waitlistCnt": "",
+                "soldCnt": "2",
+                "createdDate": "2018-12-03T20:29:35",
+                "availableCnt": "0",
+                "modifiedDate": "2019-01-15T20:21:08",
+                "capacityNb": "2",
+                "waitlistCapacityNb": ""
+            },
+            "organization": {
+                "primaryContactName": "",
+                "organizationName": "City of San Luis Obispo Parks &amp; Recreation Department",
+                "addressPostalCd": "93401",
+                "sourceSystemId": "7",
+                "imageUrlAdr": "",
+                "addressCityName": "San Luis Obispo",
+                "organizationGuid": "a495ab6f-ff69-4d03-b356-d5a2a5b6d20f",
+                "addressLine2Txt": "",
+                "primaryContactPhone": "8057817300",
+                "shortDsc": "",
+                "addressLine1Txt": "1341 Nipomo Street",
+                "addressLocalityName": "",
+                "organizationDsc": "",
+                "organizationUrlAdr": "",
+                "hideOrganizationContact": "false",
+                "isDeleted": "false",
+                "addressStateProvinceCode": "CA",
+                "sourceSystemGuid": "fb27c928-54db-4ecd-b42f-482fc3c8681f",
+                "addressCountryCd": "USA",
+                "showOrganizationName": "true",
+                "fax": "8057817292"
+            },
+            "assetName": "Spring Swim Lessons: Private - Session 5",
+            "contactPhone": "",
+            "searchScore": 18.4612,
+            "assetVersion": 53,
+            "salesStatus": "registration-open"
+        },
+        {
+            "assetTopics": [
+                {
+                    "sequence": "1",
+                    "topic": {
+                        "topicId": "31",
+                        "topicName": "Fitness",
+                        "topicTaxonomy": "Fitness and well-being/Fitness"
+                    }
+                },
+                {
+                    "sequence": "2",
+                    "topic": {
+                        "topicId": "451",
+                        "topicName": "Swimming",
+                        "topicTaxonomy": "Sports/Water sports/Swimming"
+                    }
+                }
+            ],
+            "salesEndDate": "2019-05-27T08:00:00",
+            "regReqGenderCd": "C",
+            "registrationUrlAdr": "http://www.active.com/san-luis-obispo-ca/water-sports/swimming-classes/spring-swim-lessons-private-session-6-2019",
+            "retryDate": "2019-03-31T17:33:12",
+            "evergreenAssets": [],
+            "assetSeoUrls": [
+                {
+                    "seoSystemName": "as3",
+                    "statusCode": "true",
+                    "urlAdr": "http://www.active.com/san-luis-obispo-ca/water-sports/swimming-classes/spring-swim-lessons-private-session-6-2019?cmp=39-35-ettllc"
+                }
+            ],
+            "publishDate": null,
+            "assetChannels": [
+                {
+                    "sequence": "2",
+                    "channel": {
+                        "channelDsc": "Fitness",
+                        "channelName": "Fitness",
+                        "channelId": "1009"
+                    }
+                },
+                {
+                    "sequence": "5",
+                    "channel": {
+                        "channelDsc": "Swimming",
+                        "channelName": "Swimming",
+                        "channelId": "1024"
+                    }
+                }
+            ],
+            "sorCreateDtm": null,
+            "sponsoredContent": {},
+            "dynamicPriceIncluded": "false",
+            "localeCd": "",
+            "activityRecurrences": [
+                {
+                    "frequencyInterval": "0",
+                    "activityStartDate": "2019-05-27T00:00:00",
+                    "activityExclusions": [],
+                    "activityEndDate": "2019-06-07T00:00:00",
+                    "days": "Monday, Wednesday, Friday",
+                    "startTime": "16:10:00",
+                    "endTime": "16:40:00",
+                    "frequency": {
+                        "frequencyName": "Weekly"
+                    }
+                }
+            ],
+            "assetLegacyData": {
+                "maxTeamNb": "",
+                "assetTypeId": "FB27C928-54DB-4ECD-B42F-482FC3C8681F",
+                "costAmt": "",
+                "typeName": "",
+                "uploadSearchUrlAdr": "",
+                "avgUserRatingTxt": "",
+                "trackbackUrl": "",
+                "seoUrl": "",
+                "eventCategories": "",
+                "estParticipantNb": "",
+                "participationCriteriaTxt": "",
+                "priceExtensionTxt": "",
+                "isSearchable": "false",
+                "onlineMembership": "",
+                "minGuaranteedGameNb": "",
+                "searchWeight": "1.0000",
+                "userCommentTxt": "",
+                "substitutionUrl": "sloparksandrec/registrationmain.sdi?source=showAsset.sdi&activity_id=28444",
+                "onlineDonation": "",
+                "genderRequirementTxt": "",
+                "createdDate": "2018-12-03T20:30:01",
+                "onlineMembershipCostAmt": "",
+                "authorName": "",
+                "onlineRegistration": "true",
+                "modifiedDate": "2019-03-31T17:22:57",
+                "multipleStartDate": ""
+            },
+            "activityEndDate": "2019-06-07T23:40:00",
+            "assetDeals": [],
+            "assetServiceHostName": "as-app-08w.active.tan",
+            "childIndex": "",
+            "assetDescriptions": [
+                {
+                    "descriptionType": {
+                        "descriptionTypeName": "Standard",
+                        "descriptionTypeId": "6"
+                    },
+                    "description": "<div><h4>Description</h4><p>A private swimming lesson is designed to maximize the individual instruction given to a particular student with a one to one student/teacher ratio. Semi-private lessons are available for family members or close friends that have students of a similar ability (first student pays full private fee; second student pays at half price. Enroll the first child to secure the spot and enrollment of additional swimmers will take place the first day of the lesson). <u>Refunds are not available for lessons; however, a credit can be provided.</u> For swim lessons, please use the side entrance to enter the SLO Swim Center.<div><br></div><div><b>Lessons will be offered on Memorial Day, May 27, 2019. </b></div><hr align=\"center\" width=\"90%\"><div style=\"text-align:center;color:red;font-weight:bold;padding-left:4px;padding-right:4px\"><p style=\"margin: 0in 0in 0pt;\"><span style=\"font-family: \" calibri\",\"sans-serif\";=\"\" mso-ascii-theme-font:=\"\" minor-latin;=\"\" mso-hansi-theme-font:=\"\" minor-latin;\"=\"\"><strong>Refunds are NOT available for Swim Lessons, however credits may  be provided.</strong></span></p><div></p></div><div><h4>Activity Category</h4><p>Aquatics</p></div><div><h4>Location</h4><p>SLO Swim Center</p></div><div><h4>Instructor</h4><p>SLO Swim Center Staff</p></div>"
+                }
+            ],
+            "componentInUrlAdr": {},
+            "activityStartDate": "2019-05-27T23:10:00",
+            "volumePriceIncluded": "false",
+            "contactName": "",
+            "sorCreateUserId": "",
+            "localTimeZoneId": "America/Los_Angeles",
+            "socialMedia": [],
+            "donationUrlAdr": "",
+            "activenetTopGraphic": {},
+            "assetReferences": [],
+            "market": {
+                "marketName": "sports-fitness",
+                "marketId": "16"
+            },
+            "assetAttributes": [],
+            "timezoneAbb": "",
+            "assetMediaTypes": [
+                {
+                    "sequence": "1",
+                    "mediaType": {
+                        "mediaTypeName": "Class",
+                        "mediaTypeDsc": "",
+                        "mediaTypeId": "28"
+                    }
+                },
+                {
+                    "sequence": "2",
+                    "mediaType": {
+                        "mediaTypeName": "Events",
+                        "mediaTypeDsc": "",
+                        "mediaTypeId": "204"
+                    }
+                }
+            ],
+            "evergreenAssetFlag": "false",
+            "authorName": "",
+            "registrantSearchUrlAdr": "",
+            "modifiedDate": "2019-03-31T17:23:14",
+            "timezoneName": "",
+            "showContact": "false",
+            "assetParentAsset": {},
+            "assetStatus": {
+                "assetStatusId": "2",
+                "assetStatusName": "VISIBLE"
+            },
+            "regReqMaxAge": 17,
+            "currencyCd": "",
+            "resultsUrlAdr": "",
+            "assetImages": [],
+            "assetRegistrableStatus": "reg-open",
+            "evergreenParentAsset": {},
+            "sourceSystem": {
+                "sourceSystemName": "ActiveNet",
+                "legacyGuid": "fb27c928-54db-4ecd-b42f-482fc3c8681f",
+                "affiliate": "true"
+            },
+            "assetGuid": "6b3d6e55-e61e-451c-a53d-75047c6355c0",
+            "timezone": "UTC",
+            "assetRootAsset": {},
+            "assetTags": [
+                {
+                    "tag": {
+                        "tagId": "762099",
+                        "tagName": "Fitness and well-being\\Health",
+                        "tagDescription": "MISCELLANEOUS"
+                    }
+                },
+                {
+                    "tag": {
+                        "tagId": "32475",
+                        "tagName": "false",
+                        "tagDescription": "activeadvantage"
+                    }
+                },
+                {
+                    "tag": {
+                        "tagId": "6577766",
+                        "tagName": "http://www.activekids.com/san-luis-obispo-ca/water-sports/swimming-classes/spring-swim-lessons-private-session-6-2019",
+                        "tagDescription": "canonicalurl"
+                    }
+                },
+                {
+                    "tag": {
+                        "tagId": "25244",
+                        "tagName": "Water Fitness",
+                        "tagDescription": "MISCELLANEOUS"
+                    }
+                },
+                {
+                    "tag": {
+                        "tagId": "29963",
+                        "tagName": "5282",
+                        "tagDescription": "MISCELLANEOUS"
+                    }
+                }
+            ],
+            "assetPopularity": {
+                "searches": 0,
+                "createdAt": 1556668817,
+                "clickTypes": {
+                    "otherActive": 0,
+                    "registration": 0,
+                    "nonActive": 0
+                },
+                "clicks": 0,
+                "rank": 3,
+                "results": 3,
+                "views": 0,
+                "A3Rank": 2
+            },
+            "preferredUrlAdr": "",
+            "logoUrlAdr": "",
+            "assetPrices": [],
+            "detailPageTemplateId": "",
+            "assetComponents": [
+                {
+                    "activityStartDate": "2019-05-27T23:10:00",
+                    "assetSeoUrls": [],
+                    "assetGuid": "326aa985-c71d-4242-9227-e878898d8503",
+                    "activityEndDate": "2019-06-07T23:40:00",
+                    "assetName": "Spring Swim Lessons: Private - Session 6"
+                }
+            ],
+            "teamUrlAdr": "",
+            "sorId": "",
+            "place": {
+                "placeDsc": "",
+                "placeUrlAdr": "",
+                "showPlaceName": "true",
+                "timezone": "America/Los_Angeles",
+                "postalCode": "93401",
+                "latitude": "35.276221",
+                "directionsTxt": "",
+                "addressLine2Txt": "",
+                "geoPoint": {
+                    "lon": "-120.663991",
+                    "lat": "35.276221"
+                },
+                "addressLine1Txt": "1341 Nipomo St.",
+                "stateProvinceCode": "CA",
+                "localityName": "",
+                "cityName": "San Luis Obispo",
+                "timezoneOffset": -8,
+                "timezoneDST": 1,
+                "countryCode": "USA",
+                "dma": {
+                    "dmaId": "855",
+                    "dmaName": "Santa Barbara - Santa Maria - San Luis Obispo"
+                },
+                "countryName": "United States",
+                "placeGuid": "f25281d8-0df9-4281-9240-b8a8109c5199",
+                "placeName": "City of San Luis Obispo",
+                "longitude": "-120.663991"
+            },
+            "overrideSeourlFlag": "false",
+            "assetCategories": [
+                {
+                    "sequence": "1",
+                    "category": {
+                        "categoryName": "Event",
+                        "categoryId": "2",
+                        "categoryTaxonomy": "Event"
+                    }
+                },
+                {
+                    "sequence": "2",
+                    "category": {
+                        "categoryName": "Classes",
+                        "categoryId": "13",
+                        "categoryTaxonomy": "Event/Classes"
+                    }
+                }
+            ],
+            "urlAdr": "http://www.active.com/san-luis-obispo-ca/water-sports/swimming-classes/spring-swim-lessons-private-session-6-2019?cmp=39-35-ettllc",
+            "retryCounter": "2",
+            "assetInterests": [],
+            "assetDsc": "",
+            "contactTxt": "",
+            "alternateName": "",
+            "regReqMinAge": 3,
+            "createdDate": "2018-12-03T20:30:01",
+            "assetMetaInterests": [
+                {
+                    "sequence": "1",
+                    "metaInterest": {
+                        "metaInterestId": "4",
+                        "metaInterestTaxonomy": "Kids",
+                        "metaInterestName": "Kids"
+                    }
+                }
+            ],
+            "salesStartDate": "2018-12-03T09:00:00",
+            "homePageUrlAdr": "",
+            "assetQuantity": {
+                "waitlistCnt": "",
+                "soldCnt": "2",
+                "createdDate": "2018-12-03T20:30:01",
+                "availableCnt": "0",
+                "modifiedDate": "2019-03-31T17:22:57",
+                "capacityNb": "2",
+                "waitlistCapacityNb": ""
+            },
+            "organization": {
+                "primaryContactName": "",
+                "organizationName": "City of San Luis Obispo Parks &amp; Recreation Department",
+                "addressPostalCd": "93401",
+                "sourceSystemId": "7",
+                "imageUrlAdr": "",
+                "addressCityName": "San Luis Obispo",
+                "organizationGuid": "a495ab6f-ff69-4d03-b356-d5a2a5b6d20f",
+                "addressLine2Txt": "",
+                "primaryContactPhone": "8057817300",
+                "shortDsc": "",
+                "addressLine1Txt": "1341 Nipomo Street",
+                "addressLocalityName": "",
+                "organizationDsc": "",
+                "organizationUrlAdr": "",
+                "hideOrganizationContact": "false",
+                "isDeleted": "false",
+                "addressStateProvinceCode": "CA",
+                "sourceSystemGuid": "fb27c928-54db-4ecd-b42f-482fc3c8681f",
+                "addressCountryCd": "USA",
+                "showOrganizationName": "true",
+                "fax": "8057817292"
+            },
+            "assetName": "Spring Swim Lessons: Private - Session 6",
+            "contactPhone": "",
+            "searchScore": 18.4612,
+            "assetVersion": 110,
+            "salesStatus": "registration-open"
+        },
+        {
+            "assetTopics": [
+                {
+                    "sequence": 1,
+                    "topic": {
+                        "topicId": 31,
+                        "topicName": "Fitness",
+                        "topicTaxonomy": "Fitness and well-being/Fitness"
+                    }
+                },
+                {
+                    "sequence": 2,
+                    "topic": {
+                        "topicId": 451,
+                        "topicName": "Swimming",
+                        "topicTaxonomy": "Sports/Water sports/Swimming"
+                    }
+                }
+            ],
+            "salesEndDate": "2019-05-28T08:00:00",
+            "regReqGenderCd": "C",
+            "registrationUrlAdr": "http://www.active.com/san-luis-obispo-ca/water-sports/swimming-classes/spring-swim-lessons-private-session-6-2019-49984333",
+            "retryDate": "2019-04-03T06:05:33",
+            "evergreenAssets": [],
+            "assetSeoUrls": [
+                {
+                    "seoSystemName": "as3",
+                    "statusCode": true,
+                    "urlAdr": "http://www.active.com/san-luis-obispo-ca/water-sports/swimming-classes/spring-swim-lessons-private-session-6-2019-49984333?cmp=39-35-ettllc"
+                }
+            ],
+            "publishDate": null,
+            "assetChannels": [
+                {
+                    "sequence": 2,
+                    "channel": {
+                        "channelDsc": "Fitness",
+                        "channelName": "Fitness",
+                        "channelId": 1009
+                    }
+                },
+                {
+                    "sequence": 5,
+                    "channel": {
+                        "channelDsc": "Swimming",
+                        "channelName": "Swimming",
+                        "channelId": 1024
+                    }
+                }
+            ],
+            "sorCreateDtm": null,
+            "sponsoredContent": {},
+            "dynamicPriceIncluded": false,
+            "localeCd": "",
+            "activityRecurrences": [
+                {
+                    "frequencyInterval": null,
+                    "activityStartDate": "2019-05-28T00:00:00",
+                    "activityExclusions": [],
+                    "monthWeekInterval": null,
+                    "activityEndDate": "2019-06-06T00:00:00",
+                    "days": "Tuesday, Thursday",
+                    "startTime": "16:10:00",
+                    "endTime": "16:40:00",
+                    "frequency": {
+                        "frequencyName": "Weekly"
+                    }
+                }
+            ],
+            "assetLegacyData": {
+                "maxTeamNb": "",
+                "assetTypeId": "FB27C928-54DB-4ECD-B42F-482FC3C8681F",
+                "costAmt": null,
+                "typeName": "",
+                "uploadSearchUrlAdr": "",
+                "avgUserRatingTxt": "",
+                "trackbackUrl": "",
+                "seoUrl": "",
+                "eventCategories": "",
+                "estParticipantNb": "",
+                "participationCriteriaTxt": "",
+                "priceExtensionTxt": "",
+                "isSearchable": false,
+                "onlineMembership": null,
+                "minGuaranteedGameNb": "",
+                "searchWeight": "1.0000",
+                "userCommentTxt": "",
+                "substitutionUrl": "sloparksandrec/registrationmain.sdi?source=showAsset.sdi&activity_id=28446",
+                "onlineDonation": null,
+                "genderRequirementTxt": "",
+                "createdDate": "2018-12-03T20:30:16",
+                "onlineMembershipCostAmt": null,
+                "authorName": "",
+                "onlineRegistration": true,
+                "modifiedDate": "2019-04-03T05:55:00",
+                "multipleStartDate": null
+            },
+            "activityEndDate": "2019-06-06T23:40:00",
+            "assetDeals": [],
+            "assetServiceHostName": "prod-asset-02w",
+            "childIndex": null,
+            "assetDescriptions": [
+                {
+                    "descriptionType": {
+                        "descriptionTypeName": "Standard",
+                        "descriptionTypeId": 6
+                    },
+                    "description": "<div><h4>Description</h4><p>A private swimming lesson is designed to maximize the individual instruction given to a particular student with a one to one student/teacher ratio. Semi-private lessons are available for family members or close friends that have students of a similar ability (first student pays full private fee; second student pays at half price. Enroll the first child to secure the spot and enrollment of additional swimmers will take place the first day of the lesson). <u>Refunds are not available for lessons; however, a credit can be provided.</u> For swim lessons, please use the side entrance to enter the SLO Swim Center.<hr align=\"center\" width=\"90%\"><div style=\"text-align:center;color:red;font-weight:bold;padding-left:4px;padding-right:4px\"><p style=\"margin: 0in 0in 0pt;\"><span style=\"font-family: \" calibri\",\"sans-serif\";=\"\" mso-ascii-theme-font:=\"\" minor-latin;=\"\" mso-hansi-theme-font:=\"\" minor-latin;\"=\"\"><strong>Refunds are NOT available for Swim Lessons, however credits may  be provided.</strong></span></p><div></p></div><div><h4>Activity Category</h4><p>Aquatics</p></div><div><h4>Location</h4><p>SLO Swim Center</p></div><div><h4>Instructor</h4><p>SLO Swim Center Staff</p></div>"
+                }
+            ],
+            "componentInUrlAdr": {},
+            "activityStartDate": "2019-05-28T23:10:00",
+            "volumePriceIncluded": false,
+            "contactName": "",
+            "sorCreateUserId": "",
+            "localTimeZoneId": "America/Los_Angeles",
+            "socialMedia": [],
+            "donationUrlAdr": "",
+            "activenetTopGraphic": {},
+            "assetReferences": [],
+            "market": {
+                "marketName": "sports-fitness",
+                "marketId": 16
+            },
+            "assetAttributes": [],
+            "timezoneAbb": "",
+            "assetMediaTypes": [
+                {
+                    "sequence": 1,
+                    "mediaType": {
+                        "mediaTypeName": "Class",
+                        "mediaTypeDsc": "",
+                        "mediaTypeId": 28
+                    }
+                },
+                {
+                    "sequence": 2,
+                    "mediaType": {
+                        "mediaTypeName": "Events",
+                        "mediaTypeDsc": "",
+                        "mediaTypeId": 204
+                    }
+                }
+            ],
+            "evergreenAssetFlag": "false",
+            "authorName": "",
+            "registrantSearchUrlAdr": "",
+            "modifiedDate": "2019-04-03T05:55:34",
+            "timezoneName": "",
+            "showContact": "false",
+            "assetParentAsset": {},
+            "assetStatus": {
+                "assetStatusId": "2",
+                "assetStatusName": "VISIBLE"
+            },
+            "regReqMaxAge": 17,
+            "currencyCd": "",
+            "resultsUrlAdr": "",
+            "assetImages": [],
+            "assetRegistrableStatus": "reg-open",
+            "sourceSystem": {
+                "sourceSystemName": "ActiveNet",
+                "legacyGuid": "fb27c928-54db-4ecd-b42f-482fc3c8681f",
+                "id": "7",
+                "affiliate": "true"
+            },
+            "assetGuid": "f0c2c86b-653f-4615-aa44-1c6ee04c44c4",
+            "timezone": "UTC",
+            "evergreenParentAsset": {},
+            "assetTags": [
+                {
+                    "tag": {
+                        "tagId": 29965,
+                        "tagName": "5284",
+                        "tagDescription": "MISCELLANEOUS"
+                    }
+                },
+                {
+                    "tag": {
+                        "tagId": 6577769,
+                        "tagName": "http://www.activekids.com/san-luis-obispo-ca/water-sports/swimming-classes/spring-swim-lessons-private-session-6-2019-49984333",
+                        "tagDescription": "canonicalurl"
+                    }
+                },
+                {
+                    "tag": {
+                        "tagId": 25244,
+                        "tagName": "Water Fitness",
+                        "tagDescription": "MISCELLANEOUS"
+                    }
+                },
+                {
+                    "tag": {
+                        "tagId": 762099,
+                        "tagName": "Fitness and well-being\\Health",
+                        "tagDescription": "MISCELLANEOUS"
+                    }
+                },
+                {
+                    "tag": {
+                        "tagId": 32475,
+                        "tagName": "false",
+                        "tagDescription": "activeadvantage"
+                    }
+                }
+            ],
+            "assetRootAsset": {},
+            "assetPopularity": {
+                "searches": 0,
+                "createdAt": 1556668817,
+                "clickTypes": {
+                    "otherActive": 0,
+                    "registration": 0,
+                    "nonActive": 0
+                },
+                "clicks": 0,
+                "rank": 3,
+                "results": 3,
+                "views": 0,
+                "A3Rank": 2
+            },
+            "preferredUrlAdr": "",
+            "logoUrlAdr": "",
+            "assetPrices": [],
+            "detailPageTemplateId": "",
+            "assetComponents": [
+                {
+                    "sequence": null,
+                    "activityStartDate": "2019-05-28T23:10:00",
+                    "assetSeoUrls": [],
+                    "assetGuid": "686740ed-4a49-4b0e-a5ab-033c6306d947",
+                    "activityEndDate": "2019-06-06T23:40:00",
+                    "assetName": "Spring Swim Lessons: Private - Session 6"
+                }
+            ],
+            "teamUrlAdr": "",
+            "sorId": "",
+            "place": {
+                "placeDsc": "",
+                "placeUrlAdr": "",
+                "showPlaceName": true,
+                "timezone": "America/Los_Angeles",
+                "postalCode": "93401",
+                "latitude": "35.276221",
+                "directionsTxt": "",
+                "addressLine2Txt": "",
+                "geoPoint": {
+                    "lon": "-120.663991",
+                    "lat": "35.276221"
+                },
+                "addressLine1Txt": "1341 Nipomo St.",
+                "stateProvinceCode": "CA",
+                "localityName": "",
+                "cityName": "San Luis Obispo",
+                "timezoneOffset": -8,
+                "timezoneDST": 1,
+                "countryCode": "USA",
+                "dma": {
+                    "dmaId": 855,
+                    "dmaName": "Santa Barbara - Santa Maria - San Luis Obispo"
+                },
+                "countryName": "United States",
+                "placeGuid": "f25281d8-0df9-4281-9240-b8a8109c5199",
+                "placeName": "City of San Luis Obispo",
+                "longitude": "-120.663991"
+            },
+            "overrideSeourlFlag": false,
+            "assetCategories": [
+                {
+                    "sequence": 2,
+                    "category": {
+                        "categoryName": "Classes",
+                        "categoryId": 13,
+                        "categoryTaxonomy": "Event/Classes"
+                    }
+                },
+                {
+                    "sequence": 1,
+                    "category": {
+                        "categoryName": "Event",
+                        "categoryId": 2,
+                        "categoryTaxonomy": "Event"
+                    }
+                }
+            ],
+            "urlAdr": "http://www.active.com/san-luis-obispo-ca/water-sports/swimming-classes/spring-swim-lessons-private-session-6-2019-49984333?cmp=39-35-ettllc",
+            "retryCounter": 2,
+            "assetInterests": [],
+            "assetDsc": "",
+            "contactTxt": "",
+            "alternateName": "",
+            "regReqMinAge": 3,
+            "createdDate": "2018-12-03T20:30:16",
+            "assetMetaInterests": [
+                {
+                    "sequence": 1,
+                    "metaInterest": {
+                        "metaInterestId": 4,
+                        "metaInterestTaxonomy": "Kids",
+                        "metaInterestName": "Kids"
+                    }
+                }
+            ],
+            "salesStartDate": "2018-12-03T09:00:00",
+            "homePageUrlAdr": "",
+            "assetQuantity": {
+                "waitlistCnt": "",
+                "soldCnt": "2",
+                "createdDate": "2018-12-03T20:30:16",
+                "availableCnt": "0",
+                "modifiedDate": "2019-04-03T05:55:00",
+                "capacityNb": "2",
+                "waitlistCapacityNb": ""
+            },
+            "organization": {
+                "primaryContactName": "",
+                "organizationName": "City of San Luis Obispo Parks &amp; Recreation Department",
+                "addressPostalCd": "93401",
+                "sourceSystemId": 7,
+                "imageUrlAdr": "",
+                "addressCityName": "San Luis Obispo",
+                "eventCount": 108,
+                "organizationGuid": "a495ab6f-ff69-4d03-b356-d5a2a5b6d20f",
+                "primaryContactPhone": "8057817300",
+                "addressLine2Txt": "",
+                "shortDsc": "",
+                "addressLine1Txt": "1341 Nipomo Street",
+                "addressLocalityName": "",
+                "organizationDsc": "",
+                "organizationUrlAdr": "",
+                "hideOrganizationContact": false,
+                "isDeleted": false,
+                "a3EventCount": 308,
+                "addressStateProvinceCode": "CA",
+                "sourceSystemGuid": "fb27c928-54db-4ecd-b42f-482fc3c8681f",
+                "addressCountryCd": "USA",
+                "showOrganizationName": true,
+                "fax": "8057817292"
+            },
+            "assetName": "Spring Swim Lessons: Private - Session 6",
+            "contactPhone": "",
+            "searchScore": 18.4612,
+            "assetVersion": 110,
+            "salesStatus": "registration-open"
+        },
+        {
+            "assetTopics": [
+                {
+                    "sequence": "1",
+                    "topic": {
+                        "topicId": "31",
+                        "topicName": "Fitness",
+                        "topicTaxonomy": "Fitness and well-being/Fitness"
+                    }
+                },
+                {
+                    "sequence": "2",
+                    "topic": {
+                        "topicId": "451",
+                        "topicName": "Swimming",
+                        "topicTaxonomy": "Sports/Water sports/Swimming"
+                    }
+                }
+            ],
+            "salesEndDate": "2019-05-28T08:00:00",
+            "regReqGenderCd": "C",
+            "registrationUrlAdr": "",
+            "retryDate": "2019-01-15T20:34:47",
+            "evergreenAssets": [],
+            "assetSeoUrls": [],
+            "publishDate": null,
+            "assetChannels": [
+                {
+                    "sequence": "1",
+                    "channel": {
+                        "channelDsc": "",
+                        "channelName": "Fitness and well-being\\Health",
+                        "channelId": "2469"
+                    }
+                },
+                {
+                    "sequence": "2",
+                    "channel": {
+                        "channelDsc": "Fitness",
+                        "channelName": "Fitness",
+                        "channelId": "1009"
+                    }
+                },
+                {
+                    "sequence": "3",
+                    "channel": {
+                        "channelDsc": "",
+                        "channelName": "Water Fitness",
+                        "channelId": "1293"
+                    }
+                },
+                {
+                    "sequence": "4",
+                    "channel": {
+                        "channelDsc": "",
+                        "channelName": "Sports",
+                        "channelId": "1262"
+                    }
+                },
+                {
+                    "sequence": "5",
+                    "channel": {
+                        "channelDsc": "Swimming",
+                        "channelName": "Swimming",
+                        "channelId": "1024"
+                    }
+                }
+            ],
+            "sorCreateDtm": null,
+            "sponsoredContent": {},
+            "dynamicPriceIncluded": "false",
+            "localeCd": "",
+            "activityRecurrences": [
+                {
+                    "frequencyInterval": "0",
+                    "activityStartDate": "2019-05-28T00:00:00",
+                    "activityExclusions": [],
+                    "activityEndDate": "2019-06-06T00:00:00",
+                    "days": "Tuesday, Thursday",
+                    "startTime": "16:45:00",
+                    "endTime": "17:15:00",
+                    "frequency": {
+                        "frequencyName": "Weekly"
+                    }
+                }
+            ],
+            "assetLegacyData": {
+                "maxTeamNb": "",
+                "assetTypeId": "FB27C928-54DB-4ECD-B42F-482FC3C8681F",
+                "costAmt": "",
+                "typeName": "",
+                "uploadSearchUrlAdr": "",
+                "avgUserRatingTxt": "",
+                "trackbackUrl": "",
+                "seoUrl": "",
+                "eventCategories": "",
+                "estParticipantNb": "",
+                "participationCriteriaTxt": "",
+                "priceExtensionTxt": "",
+                "isSearchable": "false",
+                "onlineMembership": "",
+                "minGuaranteedGameNb": "",
+                "searchWeight": "1.0000",
+                "userCommentTxt": "",
+                "substitutionUrl": "sloparksandrec/registrationmain.sdi?source=showAsset.sdi&activity_id=28447",
+                "onlineDonation": "",
+                "genderRequirementTxt": "",
+                "createdDate": "2018-12-03T20:30:42",
+                "onlineMembershipCostAmt": "",
+                "authorName": "",
+                "onlineRegistration": "true",
+                "modifiedDate": "2019-01-15T20:20:01",
+                "multipleStartDate": ""
+            },
+            "activityEndDate": "2019-06-07T00:15:00",
+            "assetDeals": [],
+            "assetServiceHostName": "prod-asset-03w",
+            "childIndex": "",
+            "assetDescriptions": [
+                {
+                    "descriptionType": {
+                        "descriptionTypeName": "Standard",
+                        "descriptionTypeId": "6"
+                    },
+                    "description": "<div><h4>Description</h4><p>A private swimming lesson is designed to maximize the individual instruction given to a particular student with a one to one student/teacher ratio. Semi-private lessons are available for family members or close friends that have students of a similar ability (first student pays full private fee; second student pays at half price. Enroll the first child to secure the spot and enrollment of additional swimmers will take place the first day of the lesson). <u>Refunds are not available for lessons; however, a credit can be provided.</u> For swim lessons, please use the side entrance to enter the SLO Swim Center.<hr align=\"center\" width=\"90%\"><div style=\"text-align:center;color:red;font-weight:bold;padding-left:4px;padding-right:4px\"><p style=\"margin: 0in 0in 0pt;\"><span style=\"font-family: \" calibri\",\"sans-serif\";=\"\" mso-ascii-theme-font:=\"\" minor-latin;=\"\" mso-hansi-theme-font:=\"\" minor-latin;\"=\"\"><strong>Refunds are NOT available for Swim Lessons, however credits may  be provided.</strong></span></p><div></p></div><div><h4>Activity Category</h4><p>Aquatics</p></div><div><h4>Location</h4><p>SLO Swim Center</p></div><div><h4>Instructor</h4><p>SLO Swim Center Staff</p></div>"
+                }
+            ],
+            "componentInUrlAdr": {},
+            "activityStartDate": "2019-05-28T23:45:00",
+            "volumePriceIncluded": "false",
+            "contactName": "",
+            "sorCreateUserId": "",
+            "localTimeZoneId": "America/Los_Angeles",
+            "socialMedia": [],
+            "donationUrlAdr": "",
+            "activenetTopGraphic": {},
+            "assetReferences": [],
+            "market": {},
+            "assetAttributes": [],
+            "timezoneAbb": "",
+            "assetMediaTypes": [
+                {
+                    "sequence": "1",
+                    "mediaType": {
+                        "mediaTypeName": "Class",
+                        "mediaTypeDsc": "",
+                        "mediaTypeId": "28"
+                    }
+                },
+                {
+                    "sequence": "2",
+                    "mediaType": {
+                        "mediaTypeName": "Events",
+                        "mediaTypeDsc": "",
+                        "mediaTypeId": "204"
+                    }
+                }
+            ],
+            "evergreenAssetFlag": "false",
+            "authorName": "",
+            "registrantSearchUrlAdr": "",
+            "modifiedDate": "2019-01-15T20:24:47",
+            "timezoneName": "",
+            "showContact": "false",
+            "assetParentAsset": {
+                "assetGuid": "06cf9497-dc4b-4313-9733-3a640586732d"
+            },
+            "assetStatus": {
+                "assetStatusId": "2",
+                "assetStatusName": "VISIBLE"
+            },
+            "regReqMaxAge": 17,
+            "currencyCd": "USD",
+            "resultsUrlAdr": "",
+            "assetImages": [],
+            "evergreenParentAsset": {},
+            "sourceSystem": {
+                "sourceSystemName": "ActiveNet",
+                "legacyGuid": "fb27c928-54db-4ecd-b42f-482fc3c8681f",
+                "affiliate": "true"
+            },
+            "assetGuid": "aaa97c08-6f23-4bfa-b582-e4813e6d96ec",
+            "timezone": "UTC",
+            "assetRootAsset": {},
+            "assetTags": [
+                {
+                    "tag": {
+                        "tagId": "32475",
+                        "tagName": "false",
+                        "tagDescription": "activeadvantage"
+                    }
+                },
+                {
+                    "tag": {
+                        "tagId": "29966",
+                        "tagName": "5285",
+                        "tagDescription": "MISCELLANEOUS"
+                    }
+                }
+            ],
+            "preferredUrlAdr": "",
+            "logoUrlAdr": "",
+            "assetPrices": [
+                {
+                    "effectiveFromVolume": "0",
+                    "priceAmt": 69,
+                    "priceType": "Standard charge. ",
+                    "maxPriceAmt": 69,
+                    "effectiveUntilDate": null,
+                    "minPriceAmt": 69,
+                    "effectiveToVolume": "0",
+                    "dynamicPricing": "false",
+                    "volumePricing": "false"
+                }
+            ],
+            "detailPageTemplateId": "",
+            "assetComponents": [],
+            "teamUrlAdr": "",
+            "sorId": "",
+            "place": {
+                "placeDsc": "",
+                "placeUrlAdr": "",
+                "showPlaceName": "true",
+                "timezone": "America/Los_Angeles",
+                "postalCode": "93401",
+                "latitude": "35.276221",
+                "directionsTxt": "",
+                "addressLine2Txt": "",
+                "geoPoint": {
+                    "lon": "-120.663991",
+                    "lat": "35.276221"
+                },
+                "addressLine1Txt": "1341 Nipomo St.",
+                "stateProvinceCode": "CA",
+                "localityName": "",
+                "cityName": "San Luis Obispo",
+                "timezoneOffset": -8,
+                "timezoneDST": 1,
+                "countryCode": "USA",
+                "dma": {
+                    "dmaId": "855",
+                    "dmaName": "Santa Barbara - Santa Maria - San Luis Obispo"
+                },
+                "countryName": "United States",
+                "placeGuid": "f25281d8-0df9-4281-9240-b8a8109c5199",
+                "placeName": "City of San Luis Obispo",
+                "longitude": "-120.663991"
+            },
+            "overrideSeourlFlag": "false",
+            "assetCategories": [
+                {
+                    "sequence": "1",
+                    "category": {
+                        "categoryName": "Event",
+                        "categoryId": "2",
+                        "categoryTaxonomy": "Event"
+                    }
+                },
+                {
+                    "sequence": "2",
+                    "category": {
+                        "categoryName": "Classes",
+                        "categoryId": "13",
+                        "categoryTaxonomy": "Event/Classes"
+                    }
+                }
+            ],
+            "urlAdr": "",
+            "retryCounter": "2",
+            "assetInterests": [],
+            "assetDsc": "",
+            "contactTxt": "",
+            "alternateName": "",
+            "regReqMinAge": 3,
+            "createdDate": "2018-12-03T20:30:42",
+            "assetMetaInterests": [],
+            "salesStartDate": "2018-12-03T09:00:00",
+            "homePageUrlAdr": "",
+            "assetQuantity": {
+                "waitlistCnt": "",
+                "soldCnt": "2",
+                "createdDate": "2018-12-03T20:30:42",
+                "availableCnt": "0",
+                "modifiedDate": "2019-01-15T20:20:01",
+                "capacityNb": "2",
+                "waitlistCapacityNb": ""
+            },
+            "organization": {
+                "primaryContactName": "",
+                "organizationName": "City of San Luis Obispo Parks &amp; Recreation Department",
+                "addressPostalCd": "93401",
+                "sourceSystemId": "7",
+                "imageUrlAdr": "",
+                "addressCityName": "San Luis Obispo",
+                "organizationGuid": "a495ab6f-ff69-4d03-b356-d5a2a5b6d20f",
+                "addressLine2Txt": "",
+                "primaryContactPhone": "8057817300",
+                "shortDsc": "",
+                "addressLine1Txt": "1341 Nipomo Street",
+                "addressLocalityName": "",
+                "organizationDsc": "",
+                "organizationUrlAdr": "",
+                "hideOrganizationContact": "false",
+                "isDeleted": "false",
+                "addressStateProvinceCode": "CA",
+                "sourceSystemGuid": "fb27c928-54db-4ecd-b42f-482fc3c8681f",
+                "addressCountryCd": "USA",
+                "showOrganizationName": "true",
+                "fax": "8057817292"
+            },
+            "assetName": "Spring Swim Lessons: Private - Session 6",
+            "contactPhone": "",
+            "searchScore": 18.4456,
+            "assetVersion": 55,
+            "salesStatus": "registration-open"
+        },
+        {
+            "assetTopics": [
+                {
+                    "sequence": "1",
+                    "topic": {
+                        "topicId": "31",
+                        "topicName": "Fitness",
+                        "topicTaxonomy": "Fitness and well-being/Fitness"
+                    }
+                },
+                {
+                    "sequence": "2",
+                    "topic": {
+                        "topicId": "451",
+                        "topicName": "Swimming",
+                        "topicTaxonomy": "Sports/Water sports/Swimming"
+                    }
+                }
+            ],
+            "salesEndDate": "2019-05-28T08:00:00",
+            "regReqGenderCd": "C",
+            "registrationUrlAdr": "",
+            "retryDate": "2019-01-15T20:34:48",
+            "evergreenAssets": [],
+            "assetSeoUrls": [],
+            "publishDate": null,
+            "assetChannels": [
+                {
+                    "sequence": "1",
+                    "channel": {
+                        "channelDsc": "",
+                        "channelName": "Fitness and well-being\\Health",
+                        "channelId": "2469"
+                    }
+                },
+                {
+                    "sequence": "2",
+                    "channel": {
+                        "channelDsc": "Fitness",
+                        "channelName": "Fitness",
+                        "channelId": "1009"
+                    }
+                },
+                {
+                    "sequence": "3",
+                    "channel": {
+                        "channelDsc": "",
+                        "channelName": "Water Fitness",
+                        "channelId": "1293"
+                    }
+                },
+                {
+                    "sequence": "4",
+                    "channel": {
+                        "channelDsc": "",
+                        "channelName": "Sports",
+                        "channelId": "1262"
+                    }
+                },
+                {
+                    "sequence": "5",
+                    "channel": {
+                        "channelDsc": "Swimming",
+                        "channelName": "Swimming",
+                        "channelId": "1024"
+                    }
+                }
+            ],
+            "sorCreateDtm": null,
+            "sponsoredContent": {},
+            "dynamicPriceIncluded": "false",
+            "localeCd": "",
+            "activityRecurrences": [
+                {
+                    "frequencyInterval": "0",
+                    "activityStartDate": "2019-05-28T00:00:00",
+                    "activityExclusions": [],
+                    "activityEndDate": "2019-06-06T00:00:00",
+                    "days": "Tuesday, Thursday",
+                    "startTime": "16:45:00",
+                    "endTime": "17:15:00",
+                    "frequency": {
+                        "frequencyName": "Weekly"
+                    }
+                }
+            ],
+            "assetLegacyData": {
+                "maxTeamNb": "",
+                "assetTypeId": "FB27C928-54DB-4ECD-B42F-482FC3C8681F",
+                "costAmt": "",
+                "typeName": "",
+                "uploadSearchUrlAdr": "",
+                "avgUserRatingTxt": "",
+                "trackbackUrl": "",
+                "seoUrl": "",
+                "eventCategories": "",
+                "estParticipantNb": "",
+                "participationCriteriaTxt": "",
+                "priceExtensionTxt": "",
+                "isSearchable": "false",
+                "onlineMembership": "",
+                "minGuaranteedGameNb": "",
+                "searchWeight": "1.0000",
+                "userCommentTxt": "",
+                "substitutionUrl": "sloparksandrec/registrationmain.sdi?source=showAsset.sdi&activity_id=28447",
+                "onlineDonation": "",
+                "genderRequirementTxt": "",
+                "createdDate": "2018-12-03T20:30:36",
+                "onlineMembershipCostAmt": "",
+                "authorName": "",
+                "onlineRegistration": "true",
+                "modifiedDate": "2019-01-15T20:20:33",
+                "multipleStartDate": ""
+            },
+            "activityEndDate": "2019-06-07T00:15:00",
+            "assetDeals": [],
+            "assetServiceHostName": "prod-asset-03w",
+            "childIndex": "",
+            "assetDescriptions": [
+                {
+                    "descriptionType": {
+                        "descriptionTypeName": "Standard",
+                        "descriptionTypeId": "6"
+                    },
+                    "description": "<div><h4>Description</h4><p>A private swimming lesson is designed to maximize the individual instruction given to a particular student with a one to one student/teacher ratio. Semi-private lessons are available for family members or close friends that have students of a similar ability (first student pays full private fee; second student pays at half price. Enroll the first child to secure the spot and enrollment of additional swimmers will take place the first day of the lesson). <u>Refunds are not available for lessons; however, a credit can be provided.</u> For swim lessons, please use the side entrance to enter the SLO Swim Center.<hr align=\"center\" width=\"90%\"><div style=\"text-align:center;color:red;font-weight:bold;padding-left:4px;padding-right:4px\"><p style=\"margin: 0in 0in 0pt;\"><span style=\"font-family: \" calibri\",\"sans-serif\";=\"\" mso-ascii-theme-font:=\"\" minor-latin;=\"\" mso-hansi-theme-font:=\"\" minor-latin;\"=\"\"><strong>Refunds are NOT available for Swim Lessons, however credits may  be provided.</strong></span></p><div></p></div><div><h4>Activity Category</h4><p>Aquatics</p></div><div><h4>Location</h4><p>SLO Swim Center</p></div><div><h4>Instructor</h4><p>SLO Swim Center Staff</p></div>"
+                }
+            ],
+            "componentInUrlAdr": {},
+            "activityStartDate": "2019-05-28T23:45:00",
+            "volumePriceIncluded": "false",
+            "contactName": "",
+            "sorCreateUserId": "",
+            "localTimeZoneId": "America/Los_Angeles",
+            "socialMedia": [],
+            "donationUrlAdr": "",
+            "activenetTopGraphic": {},
+            "assetReferences": [],
+            "market": {},
+            "assetAttributes": [],
+            "timezoneAbb": "",
+            "assetMediaTypes": [
+                {
+                    "sequence": "1",
+                    "mediaType": {
+                        "mediaTypeName": "Events",
+                        "mediaTypeDsc": "",
+                        "mediaTypeId": "204"
+                    }
+                },
+                {
+                    "sequence": "2",
+                    "mediaType": {
+                        "mediaTypeName": "Class",
+                        "mediaTypeDsc": "",
+                        "mediaTypeId": "28"
+                    }
+                }
+            ],
+            "evergreenAssetFlag": "false",
+            "authorName": "",
+            "registrantSearchUrlAdr": "",
+            "modifiedDate": "2019-01-15T20:24:49",
+            "timezoneName": "",
+            "showContact": "false",
+            "assetParentAsset": {
+                "assetGuid": "163a9f81-3465-4d7f-9f76-2ddb1e77f13c"
+            },
+            "assetStatus": {
+                "assetStatusId": "2",
+                "assetStatusName": "VISIBLE"
+            },
+            "regReqMaxAge": 17,
+            "currencyCd": "",
+            "resultsUrlAdr": "",
+            "assetImages": [],
+            "evergreenParentAsset": {},
+            "sourceSystem": {
+                "sourceSystemName": "ActiveNet",
+                "legacyGuid": "fb27c928-54db-4ecd-b42f-482fc3c8681f",
+                "affiliate": "true"
+            },
+            "assetGuid": "06cf9497-dc4b-4313-9733-3a640586732d",
+            "timezone": "UTC",
+            "assetRootAsset": {},
+            "assetTags": [
+                {
+                    "tag": {
+                        "tagId": "29966",
+                        "tagName": "5285",
+                        "tagDescription": "MISCELLANEOUS"
+                    }
+                },
+                {
+                    "tag": {
+                        "tagId": "32475",
+                        "tagName": "false",
+                        "tagDescription": "activeadvantage"
+                    }
+                }
+            ],
+            "preferredUrlAdr": "",
+            "logoUrlAdr": "",
+            "assetPrices": [],
+            "detailPageTemplateId": "",
+            "assetComponents": [
+                {
+                    "activityStartDate": "2019-05-28T23:45:00",
+                    "assetSeoUrls": [],
+                    "assetGuid": "aaa97c08-6f23-4bfa-b582-e4813e6d96ec",
+                    "activityEndDate": "2019-06-07T00:15:00",
+                    "assetName": "Spring Swim Lessons: Private - Session 6"
+                }
+            ],
+            "teamUrlAdr": "",
+            "sorId": "",
+            "place": {
+                "placeDsc": "",
+                "placeUrlAdr": "",
+                "showPlaceName": "true",
+                "timezone": "America/Los_Angeles",
+                "postalCode": "93401",
+                "latitude": "35.276221",
+                "directionsTxt": "",
+                "addressLine2Txt": "",
+                "geoPoint": {
+                    "lon": "-120.663991",
+                    "lat": "35.276221"
+                },
+                "addressLine1Txt": "1341 Nipomo St.",
+                "stateProvinceCode": "CA",
+                "localityName": "",
+                "cityName": "San Luis Obispo",
+                "timezoneOffset": -8,
+                "timezoneDST": 1,
+                "countryCode": "USA",
+                "dma": {
+                    "dmaId": "855",
+                    "dmaName": "Santa Barbara - Santa Maria - San Luis Obispo"
+                },
+                "countryName": "United States",
+                "placeGuid": "f25281d8-0df9-4281-9240-b8a8109c5199",
+                "placeName": "City of San Luis Obispo",
+                "longitude": "-120.663991"
+            },
+            "overrideSeourlFlag": "false",
+            "assetCategories": [
+                {
+                    "sequence": "1",
+                    "category": {
+                        "categoryName": "Event",
+                        "categoryId": "2",
+                        "categoryTaxonomy": "Event"
+                    }
+                },
+                {
+                    "sequence": "2",
+                    "category": {
+                        "categoryName": "Classes",
+                        "categoryId": "13",
+                        "categoryTaxonomy": "Event/Classes"
+                    }
+                }
+            ],
+            "urlAdr": "",
+            "retryCounter": "2",
+            "assetInterests": [],
+            "assetDsc": "",
+            "contactTxt": "",
+            "alternateName": "",
+            "regReqMinAge": 3,
+            "createdDate": "2018-12-03T20:30:36",
+            "assetMetaInterests": [],
+            "salesStartDate": "2018-12-03T09:00:00",
+            "homePageUrlAdr": "",
+            "assetQuantity": {
+                "waitlistCnt": "",
+                "soldCnt": "2",
+                "createdDate": "2018-12-03T20:30:36",
+                "availableCnt": "0",
+                "modifiedDate": "2019-01-15T20:20:33",
+                "capacityNb": "2",
+                "waitlistCapacityNb": ""
+            },
+            "organization": {
+                "primaryContactName": "",
+                "organizationName": "City of San Luis Obispo Parks &amp; Recreation Department",
+                "addressPostalCd": "93401",
+                "sourceSystemId": "7",
+                "imageUrlAdr": "",
+                "addressCityName": "San Luis Obispo",
+                "organizationGuid": "a495ab6f-ff69-4d03-b356-d5a2a5b6d20f",
+                "addressLine2Txt": "",
+                "primaryContactPhone": "8057817300",
+                "shortDsc": "",
+                "addressLine1Txt": "1341 Nipomo Street",
+                "addressLocalityName": "",
+                "organizationDsc": "",
+                "organizationUrlAdr": "",
+                "hideOrganizationContact": "false",
+                "isDeleted": "false",
+                "addressStateProvinceCode": "CA",
+                "sourceSystemGuid": "fb27c928-54db-4ecd-b42f-482fc3c8681f",
+                "addressCountryCd": "USA",
+                "showOrganizationName": "true",
+                "fax": "8057817292"
+            },
+            "assetName": "Spring Swim Lessons: Private - Session 6",
+            "contactPhone": "",
+            "searchScore": 18.4456,
+            "assetVersion": 51,
+            "salesStatus": "registration-open"
+        },
+        {
+            "assetTopics": [
+                {
+                    "sequence": "1",
+                    "topic": {
+                        "topicId": "31",
+                        "topicName": "Fitness",
+                        "topicTaxonomy": "Fitness and well-being/Fitness"
+                    }
+                },
+                {
+                    "sequence": "2",
+                    "topic": {
+                        "topicId": "451",
+                        "topicName": "Swimming",
+                        "topicTaxonomy": "Sports/Water sports/Swimming"
+                    }
+                }
+            ],
+            "salesEndDate": "2019-05-14T08:00:00",
+            "regReqGenderCd": "C",
+            "registrationUrlAdr": "",
+            "retryDate": "2019-01-15T20:35:49",
+            "evergreenAssets": [],
+            "assetSeoUrls": [],
+            "publishDate": null,
+            "assetChannels": [
+                {
+                    "sequence": "1",
+                    "channel": {
+                        "channelDsc": "",
+                        "channelName": "Fitness and well-being\\Health",
+                        "channelId": "2469"
+                    }
+                },
+                {
+                    "sequence": "2",
+                    "channel": {
+                        "channelDsc": "Fitness",
+                        "channelName": "Fitness",
+                        "channelId": "1009"
+                    }
+                },
+                {
+                    "sequence": "3",
+                    "channel": {
+                        "channelDsc": "",
+                        "channelName": "Water Fitness",
+                        "channelId": "1293"
+                    }
+                },
+                {
+                    "sequence": "4",
+                    "channel": {
+                        "channelDsc": "",
+                        "channelName": "Sports",
+                        "channelId": "1262"
+                    }
+                },
+                {
+                    "sequence": "5",
+                    "channel": {
+                        "channelDsc": "Swimming",
+                        "channelName": "Swimming",
+                        "channelId": "1024"
+                    }
+                }
+            ],
+            "sorCreateDtm": null,
+            "sponsoredContent": {},
+            "dynamicPriceIncluded": "false",
+            "localeCd": "",
+            "activityRecurrences": [
+                {
+                    "frequencyInterval": "0",
+                    "activityStartDate": "2019-05-14T00:00:00",
+                    "activityExclusions": [],
+                    "activityEndDate": "2019-05-23T00:00:00",
+                    "days": "Tuesday, Thursday",
+                    "startTime": "16:45:00",
+                    "endTime": "17:15:00",
+                    "frequency": {
+                        "frequencyName": "Weekly"
+                    }
+                }
+            ],
+            "assetLegacyData": {
+                "maxTeamNb": "",
+                "assetTypeId": "FB27C928-54DB-4ECD-B42F-482FC3C8681F",
+                "costAmt": "",
+                "typeName": "",
+                "uploadSearchUrlAdr": "",
+                "avgUserRatingTxt": "",
+                "trackbackUrl": "",
+                "seoUrl": "",
+                "eventCategories": "",
+                "estParticipantNb": "",
+                "participationCriteriaTxt": "",
+                "priceExtensionTxt": "",
+                "isSearchable": "false",
+                "onlineMembership": "",
+                "minGuaranteedGameNb": "",
+                "searchWeight": "1.0000",
+                "userCommentTxt": "",
+                "substitutionUrl": "sloparksandrec/registrationmain.sdi?source=showAsset.sdi&activity_id=28443",
+                "onlineDonation": "",
+                "genderRequirementTxt": "",
+                "createdDate": "2018-12-03T20:29:50",
+                "onlineMembershipCostAmt": "",
+                "authorName": "",
+                "onlineRegistration": "true",
+                "modifiedDate": "2019-01-15T20:21:38",
+                "multipleStartDate": ""
+            },
+            "activityEndDate": "2019-05-24T00:15:00",
+            "assetDeals": [],
+            "assetServiceHostName": "prod-asset-01w",
+            "childIndex": "",
+            "assetDescriptions": [
+                {
+                    "descriptionType": {
+                        "descriptionTypeName": "Standard",
+                        "descriptionTypeId": "6"
+                    },
+                    "description": "<div><h4>Description</h4><p>A private swimming lesson is designed to maximize the individual instruction given to a particular student with a one to one student/teacher ratio. Semi-private lessons are available for family members or close friends that have students of a similar ability (first student pays full private fee; second student pays at half price. Enroll the first child to secure the spot and enrollment of additional swimmers will take place the first day of the lesson). <u>Refunds are not available for lessons; however, a credit can be provided.</u> For swim lessons, please use the side entrance to enter the SLO Swim Center.<hr align=\"center\" width=\"90%\"><div style=\"text-align:center;color:red;font-weight:bold;padding-left:4px;padding-right:4px\"><p style=\"margin: 0in 0in 0pt;\"><span style=\"font-family: \" calibri\",\"sans-serif\";=\"\" mso-ascii-theme-font:=\"\" minor-latin;=\"\" mso-hansi-theme-font:=\"\" minor-latin;\"=\"\"><strong>Refunds are NOT available for Swim Lessons, however credits may  be provided.</strong></span></p><div></p></div><div><h4>Activity Category</h4><p>Aquatics</p></div><div><h4>Location</h4><p>SLO Swim Center</p></div><div><h4>Instructor</h4><p>SLO Swim Center Staff</p></div>"
+                }
+            ],
+            "componentInUrlAdr": {},
+            "activityStartDate": "2019-05-14T23:45:00",
+            "volumePriceIncluded": "false",
+            "contactName": "",
+            "sorCreateUserId": "",
+            "localTimeZoneId": "America/Los_Angeles",
+            "socialMedia": [],
+            "donationUrlAdr": "",
+            "activenetTopGraphic": {},
+            "assetReferences": [],
+            "market": {},
+            "assetAttributes": [],
+            "timezoneAbb": "",
+            "assetMediaTypes": [
+                {
+                    "sequence": "1",
+                    "mediaType": {
+                        "mediaTypeName": "Class",
+                        "mediaTypeDsc": "",
+                        "mediaTypeId": "28"
+                    }
+                },
+                {
+                    "sequence": "2",
+                    "mediaType": {
+                        "mediaTypeName": "Events",
+                        "mediaTypeDsc": "",
+                        "mediaTypeId": "204"
+                    }
+                }
+            ],
+            "evergreenAssetFlag": "false",
+            "authorName": "",
+            "registrantSearchUrlAdr": "",
+            "modifiedDate": "2019-01-15T20:25:49",
+            "timezoneName": "",
+            "showContact": "false",
+            "assetParentAsset": {
+                "assetGuid": "1742b1b5-cb28-4cbc-a23f-9975c6ad2366"
+            },
+            "assetStatus": {
+                "assetStatusId": "2",
+                "assetStatusName": "VISIBLE"
+            },
+            "regReqMaxAge": 17,
+            "currencyCd": "",
+            "resultsUrlAdr": "",
+            "assetImages": [],
+            "evergreenParentAsset": {},
+            "sourceSystem": {
+                "sourceSystemName": "ActiveNet",
+                "legacyGuid": "fb27c928-54db-4ecd-b42f-482fc3c8681f",
+                "affiliate": "true"
+            },
+            "assetGuid": "d0740e61-614a-4b3e-b772-eef63d56df04",
+            "timezone": "UTC",
+            "assetRootAsset": {},
+            "assetTags": [
+                {
+                    "tag": {
+                        "tagId": "32475",
+                        "tagName": "false",
+                        "tagDescription": "activeadvantage"
+                    }
+                },
+                {
+                    "tag": {
+                        "tagId": "29962",
+                        "tagName": "5281",
+                        "tagDescription": "MISCELLANEOUS"
+                    }
+                }
+            ],
+            "preferredUrlAdr": "",
+            "logoUrlAdr": "",
+            "assetPrices": [],
+            "detailPageTemplateId": "",
+            "assetComponents": [
+                {
+                    "activityStartDate": "2019-05-14T23:45:00",
+                    "assetSeoUrls": [],
+                    "assetGuid": "46b96731-d6cd-4f63-88a8-2ccbfd6fa8bb",
+                    "activityEndDate": "2019-05-24T00:15:00",
+                    "assetName": "Spring Swim Lessons: Private - Session 5"
+                }
+            ],
+            "teamUrlAdr": "",
+            "sorId": "",
+            "place": {
+                "placeDsc": "",
+                "placeUrlAdr": "",
+                "showPlaceName": "true",
+                "timezone": "America/Los_Angeles",
+                "postalCode": "93401",
+                "latitude": "35.276221",
+                "directionsTxt": "",
+                "addressLine2Txt": "",
+                "geoPoint": {
+                    "lon": "-120.663991",
+                    "lat": "35.276221"
+                },
+                "addressLine1Txt": "1341 Nipomo St.",
+                "stateProvinceCode": "CA",
+                "localityName": "",
+                "cityName": "San Luis Obispo",
+                "timezoneOffset": -8,
+                "timezoneDST": 1,
+                "countryCode": "USA",
+                "dma": {
+                    "dmaId": "855",
+                    "dmaName": "Santa Barbara - Santa Maria - San Luis Obispo"
+                },
+                "countryName": "United States",
+                "placeGuid": "f25281d8-0df9-4281-9240-b8a8109c5199",
+                "placeName": "City of San Luis Obispo",
+                "longitude": "-120.663991"
+            },
+            "overrideSeourlFlag": "false",
+            "assetCategories": [
+                {
+                    "sequence": "1",
+                    "category": {
+                        "categoryName": "Event",
+                        "categoryId": "2",
+                        "categoryTaxonomy": "Event"
+                    }
+                },
+                {
+                    "sequence": "2",
+                    "category": {
+                        "categoryName": "Classes",
+                        "categoryId": "13",
+                        "categoryTaxonomy": "Event/Classes"
+                    }
+                }
+            ],
+            "urlAdr": "",
+            "retryCounter": "2",
+            "assetInterests": [],
+            "assetDsc": "",
+            "contactTxt": "",
+            "alternateName": "",
+            "regReqMinAge": 3,
+            "createdDate": "2018-12-03T20:29:50",
+            "assetMetaInterests": [],
+            "salesStartDate": "2018-12-03T09:00:00",
+            "homePageUrlAdr": "",
+            "assetQuantity": {
+                "waitlistCnt": "",
+                "soldCnt": "2",
+                "createdDate": "2018-12-03T20:29:50",
+                "availableCnt": "0",
+                "modifiedDate": "2019-01-15T20:21:38",
+                "capacityNb": "2",
+                "waitlistCapacityNb": ""
+            },
+            "organization": {
+                "primaryContactName": "",
+                "organizationName": "City of San Luis Obispo Parks &amp; Recreation Department",
+                "addressPostalCd": "93401",
+                "sourceSystemId": "7",
+                "imageUrlAdr": "",
+                "addressCityName": "San Luis Obispo",
+                "organizationGuid": "a495ab6f-ff69-4d03-b356-d5a2a5b6d20f",
+                "addressLine2Txt": "",
+                "primaryContactPhone": "8057817300",
+                "shortDsc": "",
+                "addressLine1Txt": "1341 Nipomo Street",
+                "addressLocalityName": "",
+                "organizationDsc": "",
+                "organizationUrlAdr": "",
+                "hideOrganizationContact": "false",
+                "isDeleted": "false",
+                "addressStateProvinceCode": "CA",
+                "sourceSystemGuid": "fb27c928-54db-4ecd-b42f-482fc3c8681f",
+                "addressCountryCd": "USA",
+                "showOrganizationName": "true",
+                "fax": "8057817292"
+            },
+            "assetName": "Spring Swim Lessons: Private - Session 5",
+            "contactPhone": "",
+            "searchScore": 18.4456,
+            "assetVersion": 53,
+            "salesStatus": "registration-open"
+        },
+        {
+            "assetTopics": [
+                {
+                    "sequence": 1,
+                    "topic": {
+                        "topicId": 31,
+                        "topicName": "Fitness",
+                        "topicTaxonomy": "Fitness and well-being/Fitness"
+                    }
+                },
+                {
+                    "sequence": 2,
+                    "topic": {
+                        "topicId": 451,
+                        "topicName": "Swimming",
+                        "topicTaxonomy": "Sports/Water sports/Swimming"
+                    }
+                }
+            ],
+            "salesEndDate": "2019-05-13T08:00:00",
+            "regReqGenderCd": "C",
+            "registrationUrlAdr": "",
+            "retryDate": "2019-01-15T20:35:44",
+            "evergreenAssets": [],
+            "assetSeoUrls": [],
+            "publishDate": null,
+            "assetChannels": [
+                {
+                    "sequence": 1,
+                    "channel": {
+                        "channelDsc": "",
+                        "channelName": "Fitness and well-being\\Health",
+                        "channelId": 2469
+                    }
+                },
+                {
+                    "sequence": 2,
+                    "channel": {
+                        "channelDsc": "Fitness",
+                        "channelName": "Fitness",
+                        "channelId": 1009
+                    }
+                },
+                {
+                    "sequence": 3,
+                    "channel": {
+                        "channelDsc": "",
+                        "channelName": "Water Fitness",
+                        "channelId": 1293
+                    }
+                },
+                {
+                    "sequence": 4,
+                    "channel": {
+                        "channelDsc": "",
+                        "channelName": "Sports",
+                        "channelId": 1262
+                    }
+                },
+                {
+                    "sequence": 5,
+                    "channel": {
+                        "channelDsc": "Swimming",
+                        "channelName": "Swimming",
+                        "channelId": 1024
+                    }
+                }
+            ],
+            "sorCreateDtm": null,
+            "sponsoredContent": {},
+            "dynamicPriceIncluded": false,
+            "localeCd": "",
+            "activityRecurrences": [
+                {
+                    "frequencyInterval": null,
+                    "activityStartDate": "2019-05-13T00:00:00",
+                    "activityExclusions": [],
+                    "monthWeekInterval": null,
+                    "activityEndDate": "2019-05-24T00:00:00",
+                    "days": "Monday, Wednesday, Friday",
+                    "startTime": "16:45:00",
+                    "endTime": "17:15:00",
+                    "frequency": {
+                        "frequencyName": "Weekly"
+                    }
+                }
+            ],
+            "assetLegacyData": {
+                "maxTeamNb": "",
+                "assetTypeId": "FB27C928-54DB-4ECD-B42F-482FC3C8681F",
+                "costAmt": null,
+                "typeName": "",
+                "uploadSearchUrlAdr": "",
+                "avgUserRatingTxt": "",
+                "trackbackUrl": "",
+                "seoUrl": "",
+                "eventCategories": "",
+                "estParticipantNb": "",
+                "participationCriteriaTxt": "",
+                "priceExtensionTxt": "",
+                "isSearchable": false,
+                "onlineMembership": null,
+                "minGuaranteedGameNb": "",
+                "searchWeight": "1.0000",
+                "userCommentTxt": "",
+                "substitutionUrl": "sloparksandrec/registrationmain.sdi?source=showAsset.sdi&activity_id=28441",
+                "onlineDonation": null,
+                "genderRequirementTxt": "",
+                "createdDate": "2018-12-03T20:29:24",
+                "onlineMembershipCostAmt": null,
+                "authorName": "",
+                "onlineRegistration": true,
+                "modifiedDate": "2019-01-15T20:21:08",
+                "multipleStartDate": null
+            },
+            "activityEndDate": "2019-05-25T00:15:00",
+            "assetDeals": [],
+            "assetServiceHostName": "prod-asset-01w",
+            "childIndex": null,
+            "assetDescriptions": [
+                {
+                    "descriptionType": {
+                        "descriptionTypeName": "Standard",
+                        "descriptionTypeId": 6
+                    },
+                    "description": "<div><h4>Description</h4><p>A private swimming lesson is designed to maximize the individual instruction given to a particular student with a one to one student/teacher ratio. Semi-private lessons are available for family members or close friends that have students of a similar ability (first student pays full private fee; second student pays at half price. Enroll the first child to secure the spot and enrollment of additional swimmers will take place the first day of the lesson). <u>Refunds are not available for lessons; however, a credit can be provided.</u> For swim lessons, please use the side entrance to enter the SLO Swim Center.<hr align=\"center\" width=\"90%\"><div style=\"text-align:center;color:red;font-weight:bold;padding-left:4px;padding-right:4px\"><p style=\"margin: 0in 0in 0pt;\"><span style=\"font-family: \" calibri\",\"sans-serif\";=\"\" mso-ascii-theme-font:=\"\" minor-latin;=\"\" mso-hansi-theme-font:=\"\" minor-latin;\"=\"\"><strong>Refunds are NOT available for Swim Lessons, however credits may  be provided.</strong></span></p><div></p></div><div><h4>Activity Category</h4><p>Aquatics</p></div><div><h4>Location</h4><p>SLO Swim Center</p></div><div><h4>Instructor</h4><p>SLO Swim Center Staff</p></div>"
+                }
+            ],
+            "componentInUrlAdr": {},
+            "activityStartDate": "2019-05-13T23:45:00",
+            "volumePriceIncluded": false,
+            "contactName": "",
+            "sorCreateUserId": "",
+            "localTimeZoneId": "America/Los_Angeles",
+            "socialMedia": [],
+            "donationUrlAdr": "",
+            "activenetTopGraphic": {},
+            "assetReferences": [],
+            "market": {},
+            "assetAttributes": [],
+            "timezoneAbb": "",
+            "assetMediaTypes": [
+                {
+                    "sequence": 1,
+                    "mediaType": {
+                        "mediaTypeName": "Events",
+                        "mediaTypeDsc": "",
+                        "mediaTypeId": 204
+                    }
+                },
+                {
+                    "sequence": 2,
+                    "mediaType": {
+                        "mediaTypeName": "Class",
+                        "mediaTypeDsc": "",
+                        "mediaTypeId": 28
+                    }
+                }
+            ],
+            "evergreenAssetFlag": "false",
+            "authorName": "",
+            "registrantSearchUrlAdr": "",
+            "modifiedDate": "2019-01-15T20:25:45",
+            "timezoneName": "",
+            "showContact": "false",
+            "assetParentAsset": {
+                "assetGuid": "37361a7b-09fb-498b-9758-85c1713542ae"
+            },
+            "assetStatus": {
+                "assetStatusId": "2",
+                "assetStatusName": "VISIBLE"
+            },
+            "regReqMaxAge": 17,
+            "currencyCd": "USD",
+            "resultsUrlAdr": "",
+            "assetImages": [],
+            "sourceSystem": {
+                "sourceSystemName": "ActiveNet",
+                "legacyGuid": "fb27c928-54db-4ecd-b42f-482fc3c8681f",
+                "id": "7",
+                "affiliate": "true"
+            },
+            "assetGuid": "04a047ac-bae8-41da-b330-9fbbba569f98",
+            "timezone": "UTC",
+            "evergreenParentAsset": {},
+            "assetTags": [
+                {
+                    "tag": {
+                        "tagId": 32475,
+                        "tagName": "false",
+                        "tagDescription": "activeadvantage"
+                    }
+                },
+                {
+                    "tag": {
+                        "tagId": 4063,
+                        "tagName": "5279",
+                        "tagDescription": "MISCELLANEOUS"
+                    }
+                }
+            ],
+            "assetRootAsset": {},
+            "preferredUrlAdr": "",
+            "logoUrlAdr": "",
+            "assetPrices": [
+                {
+                    "effectiveFromVolume": 0,
+                    "priceAmt": 103,
+                    "priceType": "Standard charge. ",
+                    "maxPriceAmt": 103,
+                    "effectiveUntilDate": null,
+                    "minPriceAmt": 103,
+                    "effectiveToVolume": 0,
+                    "dynamicPricing": false,
+                    "volumePricing": false
+                }
+            ],
+            "detailPageTemplateId": "",
+            "assetComponents": [],
+            "teamUrlAdr": "",
+            "sorId": "",
+            "place": {
+                "placeDsc": "",
+                "placeUrlAdr": "",
+                "showPlaceName": true,
+                "timezone": "America/Los_Angeles",
+                "postalCode": "93401",
+                "latitude": "35.276221",
+                "directionsTxt": "",
+                "addressLine2Txt": "",
+                "geoPoint": {
+                    "lon": "-120.663991",
+                    "lat": "35.276221"
+                },
+                "addressLine1Txt": "1341 Nipomo St.",
+                "stateProvinceCode": "CA",
+                "localityName": "",
+                "cityName": "San Luis Obispo",
+                "timezoneOffset": -8,
+                "timezoneDST": 1,
+                "countryCode": "USA",
+                "dma": {
+                    "dmaId": 855,
+                    "dmaName": "Santa Barbara - Santa Maria - San Luis Obispo"
+                },
+                "countryName": "United States",
+                "placeGuid": "f25281d8-0df9-4281-9240-b8a8109c5199",
+                "placeName": "City of San Luis Obispo",
+                "longitude": "-120.663991"
+            },
+            "overrideSeourlFlag": false,
+            "assetCategories": [
+                {
+                    "sequence": 1,
+                    "category": {
+                        "categoryName": "Event",
+                        "categoryId": 2,
+                        "categoryTaxonomy": "Event"
+                    }
+                },
+                {
+                    "sequence": 2,
+                    "category": {
+                        "categoryName": "Classes",
+                        "categoryId": 13,
+                        "categoryTaxonomy": "Event/Classes"
+                    }
+                }
+            ],
+            "urlAdr": "",
+            "retryCounter": 2,
+            "assetInterests": [],
+            "assetDsc": "",
+            "contactTxt": "",
+            "alternateName": "",
+            "regReqMinAge": 3,
+            "createdDate": "2018-12-03T20:29:24",
+            "assetMetaInterests": [],
+            "salesStartDate": "2018-12-03T09:00:00",
+            "homePageUrlAdr": "",
+            "assetQuantity": {
+                "waitlistCnt": "",
+                "soldCnt": "2",
+                "createdDate": "2018-12-03T20:29:24",
+                "availableCnt": "0",
+                "modifiedDate": "2019-01-15T20:21:08",
+                "capacityNb": "2",
+                "waitlistCapacityNb": ""
+            },
+            "organization": {
+                "primaryContactName": "",
+                "organizationName": "City of San Luis Obispo Parks &amp; Recreation Department",
+                "addressPostalCd": "93401",
+                "sourceSystemId": 7,
+                "imageUrlAdr": "",
+                "addressCityName": "San Luis Obispo",
+                "eventCount": 108,
+                "organizationGuid": "a495ab6f-ff69-4d03-b356-d5a2a5b6d20f",
+                "primaryContactPhone": "8057817300",
+                "addressLine2Txt": "",
+                "shortDsc": "",
+                "addressLine1Txt": "1341 Nipomo Street",
+                "addressLocalityName": "",
+                "organizationDsc": "",
+                "organizationUrlAdr": "",
+                "hideOrganizationContact": false,
+                "isDeleted": false,
+                "a3EventCount": 308,
+                "addressStateProvinceCode": "CA",
+                "sourceSystemGuid": "fb27c928-54db-4ecd-b42f-482fc3c8681f",
+                "addressCountryCd": "USA",
+                "showOrganizationName": true,
+                "fax": "8057817292"
+            },
+            "assetName": "Spring Swim Lessons: Private - Session 5",
+            "contactPhone": "",
+            "searchScore": 18.4456,
+            "assetVersion": 62,
+            "salesStatus": "registration-open"
+        },
+        {
+            "assetTopics": [
+                {
+                    "sequence": "1",
+                    "topic": {
+                        "topicId": "31",
+                        "topicName": "Fitness",
+                        "topicTaxonomy": "Fitness and well-being/Fitness"
+                    }
+                },
+                {
+                    "sequence": "2",
+                    "topic": {
+                        "topicId": "451",
+                        "topicName": "Swimming",
+                        "topicTaxonomy": "Sports/Water sports/Swimming"
+                    }
+                }
+            ],
+            "salesEndDate": "2019-05-28T08:00:00",
+            "regReqGenderCd": "C",
+            "registrationUrlAdr": "http://www.active.com/san-luis-obispo-ca/water-sports/swimming-classes/spring-swim-lessons-private-session-6-2019-49984339",
+            "retryDate": "2019-03-31T17:32:41",
+            "evergreenAssets": [],
+            "assetSeoUrls": [
+                {
+                    "seoSystemName": "as3",
+                    "statusCode": "true",
+                    "urlAdr": "http://www.active.com/san-luis-obispo-ca/water-sports/swimming-classes/spring-swim-lessons-private-session-6-2019-49984339?cmp=39-35-ettllc"
+                }
+            ],
+            "publishDate": null,
+            "assetChannels": [
+                {
+                    "sequence": "2",
+                    "channel": {
+                        "channelDsc": "Fitness",
+                        "channelName": "Fitness",
+                        "channelId": "1009"
+                    }
+                },
+                {
+                    "sequence": "5",
+                    "channel": {
+                        "channelDsc": "Swimming",
+                        "channelName": "Swimming",
+                        "channelId": "1024"
+                    }
+                }
+            ],
+            "sorCreateDtm": null,
+            "sponsoredContent": {},
+            "dynamicPriceIncluded": "false",
+            "localeCd": "",
+            "activityRecurrences": [
+                {
+                    "frequencyInterval": "0",
+                    "activityStartDate": "2019-05-28T00:00:00",
+                    "activityExclusions": [],
+                    "activityEndDate": "2019-06-06T00:00:00",
+                    "days": "Tuesday, Thursday",
+                    "startTime": "16:45:00",
+                    "endTime": "17:15:00",
+                    "frequency": {
+                        "frequencyName": "Weekly"
+                    }
+                }
+            ],
+            "assetLegacyData": {
+                "maxTeamNb": "",
+                "assetTypeId": "FB27C928-54DB-4ECD-B42F-482FC3C8681F",
+                "costAmt": "",
+                "typeName": "",
+                "uploadSearchUrlAdr": "",
+                "avgUserRatingTxt": "",
+                "trackbackUrl": "",
+                "seoUrl": "",
+                "eventCategories": "",
+                "estParticipantNb": "",
+                "participationCriteriaTxt": "",
+                "priceExtensionTxt": "",
+                "isSearchable": "false",
+                "onlineMembership": "",
+                "minGuaranteedGameNb": "",
+                "searchWeight": "1.0000",
+                "userCommentTxt": "",
+                "substitutionUrl": "sloparksandrec/registrationmain.sdi?source=showAsset.sdi&activity_id=28447",
+                "onlineDonation": "",
+                "genderRequirementTxt": "",
+                "createdDate": "2018-12-03T20:30:31",
+                "onlineMembershipCostAmt": "",
+                "authorName": "",
+                "onlineRegistration": "true",
+                "modifiedDate": "2019-03-31T17:22:38",
+                "multipleStartDate": ""
+            },
+            "activityEndDate": "2019-06-07T00:15:00",
+            "assetDeals": [],
+            "assetServiceHostName": "as-app-01w.active.tan",
+            "childIndex": "",
+            "assetDescriptions": [
+                {
+                    "descriptionType": {
+                        "descriptionTypeName": "Standard",
+                        "descriptionTypeId": "6"
+                    },
+                    "description": "<div><h4>Description</h4><p>A private swimming lesson is designed to maximize the individual instruction given to a particular student with a one to one student/teacher ratio. Semi-private lessons are available for family members or close friends that have students of a similar ability (first student pays full private fee; second student pays at half price. Enroll the first child to secure the spot and enrollment of additional swimmers will take place the first day of the lesson). <u>Refunds are not available for lessons; however, a credit can be provided.</u> For swim lessons, please use the side entrance to enter the SLO Swim Center.<hr align=\"center\" width=\"90%\"><div style=\"text-align:center;color:red;font-weight:bold;padding-left:4px;padding-right:4px\"><p style=\"margin: 0in 0in 0pt;\"><span style=\"font-family: \" calibri\",\"sans-serif\";=\"\" mso-ascii-theme-font:=\"\" minor-latin;=\"\" mso-hansi-theme-font:=\"\" minor-latin;\"=\"\"><strong>Refunds are NOT available for Swim Lessons, however credits may  be provided.</strong></span></p><div></p></div><div><h4>Activity Category</h4><p>Aquatics</p></div><div><h4>Location</h4><p>SLO Swim Center</p></div><div><h4>Instructor</h4><p>SLO Swim Center Staff</p></div>"
+                }
+            ],
+            "componentInUrlAdr": {},
+            "activityStartDate": "2019-05-28T23:45:00",
+            "volumePriceIncluded": "false",
+            "contactName": "",
+            "sorCreateUserId": "",
+            "localTimeZoneId": "America/Los_Angeles",
+            "socialMedia": [],
+            "donationUrlAdr": "",
+            "activenetTopGraphic": {},
+            "assetReferences": [],
+            "market": {
+                "marketName": "sports-fitness",
+                "marketId": "16"
+            },
+            "assetAttributes": [],
+            "timezoneAbb": "",
+            "assetMediaTypes": [
+                {
+                    "sequence": "1",
+                    "mediaType": {
+                        "mediaTypeName": "Class",
+                        "mediaTypeDsc": "",
+                        "mediaTypeId": "28"
+                    }
+                },
+                {
+                    "sequence": "2",
+                    "mediaType": {
+                        "mediaTypeName": "Events",
+                        "mediaTypeDsc": "",
+                        "mediaTypeId": "204"
+                    }
+                }
+            ],
+            "evergreenAssetFlag": "false",
+            "authorName": "",
+            "registrantSearchUrlAdr": "",
+            "modifiedDate": "2019-03-31T17:22:43",
+            "timezoneName": "",
+            "showContact": "false",
+            "assetParentAsset": {},
+            "assetStatus": {
+                "assetStatusId": "2",
+                "assetStatusName": "VISIBLE"
+            },
+            "regReqMaxAge": 17,
+            "currencyCd": "",
+            "resultsUrlAdr": "",
+            "assetImages": [],
+            "assetRegistrableStatus": "reg-open",
+            "evergreenParentAsset": {},
+            "sourceSystem": {
+                "sourceSystemName": "ActiveNet",
+                "legacyGuid": "fb27c928-54db-4ecd-b42f-482fc3c8681f",
+                "affiliate": "true"
+            },
+            "assetGuid": "163a9f81-3465-4d7f-9f76-2ddb1e77f13c",
+            "timezone": "UTC",
+            "assetRootAsset": {},
+            "assetTags": [
+                {
+                    "tag": {
+                        "tagId": "25244",
+                        "tagName": "Water Fitness",
+                        "tagDescription": "MISCELLANEOUS"
+                    }
+                },
+                {
+                    "tag": {
+                        "tagId": "762099",
+                        "tagName": "Fitness and well-being\\Health",
+                        "tagDescription": "MISCELLANEOUS"
+                    }
+                },
+                {
+                    "tag": {
+                        "tagId": "29966",
+                        "tagName": "5285",
+                        "tagDescription": "MISCELLANEOUS"
+                    }
+                },
+                {
+                    "tag": {
+                        "tagId": "6577732",
+                        "tagName": "http://www.activekids.com/san-luis-obispo-ca/water-sports/swimming-classes/spring-swim-lessons-private-session-6-2019-49984339",
+                        "tagDescription": "canonicalurl"
+                    }
+                },
+                {
+                    "tag": {
+                        "tagId": "32475",
+                        "tagName": "false",
+                        "tagDescription": "activeadvantage"
+                    }
+                }
+            ],
+            "assetPopularity": {
+                "searches": 0,
+                "createdAt": 1556668868,
+                "clickTypes": {
+                    "otherActive": 0,
+                    "registration": 0,
+                    "nonActive": 0
+                },
+                "clicks": 0,
+                "rank": 2,
+                "results": 2,
+                "views": 0,
+                "A3Rank": 1
+            },
+            "preferredUrlAdr": "",
+            "logoUrlAdr": "",
+            "assetPrices": [],
+            "detailPageTemplateId": "",
+            "assetComponents": [
+                {
+                    "activityStartDate": "2019-05-28T23:45:00",
+                    "assetSeoUrls": [],
+                    "assetGuid": "06cf9497-dc4b-4313-9733-3a640586732d",
+                    "activityEndDate": "2019-06-07T00:15:00",
+                    "assetName": "Spring Swim Lessons: Private - Session 6"
+                }
+            ],
+            "teamUrlAdr": "",
+            "sorId": "",
+            "place": {
+                "placeDsc": "",
+                "placeUrlAdr": "",
+                "showPlaceName": "true",
+                "timezone": "America/Los_Angeles",
+                "postalCode": "93401",
+                "latitude": "35.276221",
+                "directionsTxt": "",
+                "addressLine2Txt": "",
+                "geoPoint": {
+                    "lon": "-120.663991",
+                    "lat": "35.276221"
+                },
+                "addressLine1Txt": "1341 Nipomo St.",
+                "stateProvinceCode": "CA",
+                "localityName": "",
+                "cityName": "San Luis Obispo",
+                "timezoneOffset": -8,
+                "timezoneDST": 1,
+                "countryCode": "USA",
+                "dma": {
+                    "dmaId": "855",
+                    "dmaName": "Santa Barbara - Santa Maria - San Luis Obispo"
+                },
+                "countryName": "United States",
+                "placeGuid": "f25281d8-0df9-4281-9240-b8a8109c5199",
+                "placeName": "City of San Luis Obispo",
+                "longitude": "-120.663991"
+            },
+            "overrideSeourlFlag": "false",
+            "assetCategories": [
+                {
+                    "sequence": "1",
+                    "category": {
+                        "categoryName": "Event",
+                        "categoryId": "2",
+                        "categoryTaxonomy": "Event"
+                    }
+                },
+                {
+                    "sequence": "2",
+                    "category": {
+                        "categoryName": "Classes",
+                        "categoryId": "13",
+                        "categoryTaxonomy": "Event/Classes"
+                    }
+                }
+            ],
+            "urlAdr": "http://www.active.com/san-luis-obispo-ca/water-sports/swimming-classes/spring-swim-lessons-private-session-6-2019-49984339?cmp=39-35-ettllc",
+            "retryCounter": "2",
+            "assetInterests": [],
+            "assetDsc": "",
+            "contactTxt": "",
+            "alternateName": "",
+            "regReqMinAge": 3,
+            "createdDate": "2018-12-03T20:30:31",
+            "assetMetaInterests": [
+                {
+                    "sequence": "1",
+                    "metaInterest": {
+                        "metaInterestId": "4",
+                        "metaInterestTaxonomy": "Kids",
+                        "metaInterestName": "Kids"
+                    }
+                }
+            ],
+            "salesStartDate": "2018-12-03T09:00:00",
+            "homePageUrlAdr": "",
+            "assetQuantity": {
+                "waitlistCnt": "",
+                "soldCnt": "2",
+                "createdDate": "2018-12-03T20:30:31",
+                "availableCnt": "0",
+                "modifiedDate": "2019-03-31T17:22:38",
+                "capacityNb": "2",
+                "waitlistCapacityNb": ""
+            },
+            "organization": {
+                "primaryContactName": "",
+                "organizationName": "City of San Luis Obispo Parks &amp; Recreation Department",
+                "addressPostalCd": "93401",
+                "sourceSystemId": "7",
+                "imageUrlAdr": "",
+                "addressCityName": "San Luis Obispo",
+                "organizationGuid": "a495ab6f-ff69-4d03-b356-d5a2a5b6d20f",
+                "addressLine2Txt": "",
+                "primaryContactPhone": "8057817300",
+                "shortDsc": "",
+                "addressLine1Txt": "1341 Nipomo Street",
+                "addressLocalityName": "",
+                "organizationDsc": "",
+                "organizationUrlAdr": "",
+                "hideOrganizationContact": "false",
+                "isDeleted": "false",
+                "addressStateProvinceCode": "CA",
+                "sourceSystemGuid": "fb27c928-54db-4ecd-b42f-482fc3c8681f",
+                "addressCountryCd": "USA",
+                "showOrganizationName": "true",
+                "fax": "8057817292"
+            },
+            "assetName": "Spring Swim Lessons: Private - Session 6",
+            "contactPhone": "",
+            "searchScore": 18.4456,
+            "assetVersion": 105,
+            "salesStatus": "registration-open"
+        },
+        {
+            "assetTopics": [
+                {
+                    "sequence": "1",
+                    "topic": {
+                        "topicId": "31",
+                        "topicName": "Fitness",
+                        "topicTaxonomy": "Fitness and well-being/Fitness"
+                    }
+                },
+                {
+                    "sequence": "2",
+                    "topic": {
+                        "topicId": "451",
+                        "topicName": "Swimming",
+                        "topicTaxonomy": "Sports/Water sports/Swimming"
+                    }
+                }
+            ],
+            "salesEndDate": "2019-05-14T08:00:00",
+            "regReqGenderCd": "C",
+            "registrationUrlAdr": "http://www.active.com/san-luis-obispo-ca/water-sports/swimming-classes/spring-swim-lessons-private-session-5-2019-49984325",
+            "retryDate": "2019-03-31T17:33:25",
+            "evergreenAssets": [],
+            "assetSeoUrls": [
+                {
+                    "seoSystemName": "as3",
+                    "statusCode": "true",
+                    "urlAdr": "http://www.active.com/san-luis-obispo-ca/water-sports/swimming-classes/spring-swim-lessons-private-session-5-2019-49984325?cmp=39-35-ettllc"
+                }
+            ],
+            "publishDate": null,
+            "assetChannels": [
+                {
+                    "sequence": "2",
+                    "channel": {
+                        "channelDsc": "Fitness",
+                        "channelName": "Fitness",
+                        "channelId": "1009"
+                    }
+                },
+                {
+                    "sequence": "5",
+                    "channel": {
+                        "channelDsc": "Swimming",
+                        "channelName": "Swimming",
+                        "channelId": "1024"
+                    }
+                }
+            ],
+            "sorCreateDtm": null,
+            "sponsoredContent": {},
+            "dynamicPriceIncluded": "false",
+            "localeCd": "",
+            "activityRecurrences": [
+                {
+                    "frequencyInterval": "0",
+                    "activityStartDate": "2019-05-14T00:00:00",
+                    "activityExclusions": [],
+                    "activityEndDate": "2019-05-23T00:00:00",
+                    "days": "Tuesday, Thursday",
+                    "startTime": "16:45:00",
+                    "endTime": "17:15:00",
+                    "frequency": {
+                        "frequencyName": "Weekly"
+                    }
+                }
+            ],
+            "assetLegacyData": {
+                "maxTeamNb": "",
+                "assetTypeId": "FB27C928-54DB-4ECD-B42F-482FC3C8681F",
+                "costAmt": "",
+                "typeName": "",
+                "uploadSearchUrlAdr": "",
+                "avgUserRatingTxt": "",
+                "trackbackUrl": "",
+                "seoUrl": "",
+                "eventCategories": "",
+                "estParticipantNb": "",
+                "participationCriteriaTxt": "",
+                "priceExtensionTxt": "",
+                "isSearchable": "false",
+                "onlineMembership": "",
+                "minGuaranteedGameNb": "",
+                "searchWeight": "1.0000",
+                "userCommentTxt": "",
+                "substitutionUrl": "sloparksandrec/registrationmain.sdi?source=showAsset.sdi&activity_id=28443",
+                "onlineDonation": "",
+                "genderRequirementTxt": "",
+                "createdDate": "2018-12-03T20:29:45",
+                "onlineMembershipCostAmt": "",
+                "authorName": "",
+                "onlineRegistration": "true",
+                "modifiedDate": "2019-03-31T17:22:55",
+                "multipleStartDate": ""
+            },
+            "activityEndDate": "2019-05-24T00:15:00",
+            "assetDeals": [],
+            "assetServiceHostName": "as-app-09w.active.tan",
+            "childIndex": "",
+            "assetDescriptions": [
+                {
+                    "descriptionType": {
+                        "descriptionTypeName": "Standard",
+                        "descriptionTypeId": "6"
+                    },
+                    "description": "<div><h4>Description</h4><p>A private swimming lesson is designed to maximize the individual instruction given to a particular student with a one to one student/teacher ratio. Semi-private lessons are available for family members or close friends that have students of a similar ability (first student pays full private fee; second student pays at half price. Enroll the first child to secure the spot and enrollment of additional swimmers will take place the first day of the lesson). <u>Refunds are not available for lessons; however, a credit can be provided.</u> For swim lessons, please use the side entrance to enter the SLO Swim Center.<hr align=\"center\" width=\"90%\"><div style=\"text-align:center;color:red;font-weight:bold;padding-left:4px;padding-right:4px\"><p style=\"margin: 0in 0in 0pt;\"><span style=\"font-family: \" calibri\",\"sans-serif\";=\"\" mso-ascii-theme-font:=\"\" minor-latin;=\"\" mso-hansi-theme-font:=\"\" minor-latin;\"=\"\"><strong>Refunds are NOT available for Swim Lessons, however credits may  be provided.</strong></span></p><div></p></div><div><h4>Activity Category</h4><p>Aquatics</p></div><div><h4>Location</h4><p>SLO Swim Center</p></div><div><h4>Instructor</h4><p>SLO Swim Center Staff</p></div>"
+                }
+            ],
+            "componentInUrlAdr": {},
+            "activityStartDate": "2019-05-14T23:45:00",
+            "volumePriceIncluded": "false",
+            "contactName": "",
+            "sorCreateUserId": "",
+            "localTimeZoneId": "America/Los_Angeles",
+            "socialMedia": [],
+            "donationUrlAdr": "",
+            "activenetTopGraphic": {},
+            "assetReferences": [],
+            "market": {
+                "marketName": "sports-fitness",
+                "marketId": "16"
+            },
+            "assetAttributes": [],
+            "timezoneAbb": "",
+            "assetMediaTypes": [
+                {
+                    "sequence": "1",
+                    "mediaType": {
+                        "mediaTypeName": "Class",
+                        "mediaTypeDsc": "",
+                        "mediaTypeId": "28"
+                    }
+                },
+                {
+                    "sequence": "2",
+                    "mediaType": {
+                        "mediaTypeName": "Events",
+                        "mediaTypeDsc": "",
+                        "mediaTypeId": "204"
+                    }
+                }
+            ],
+            "evergreenAssetFlag": "false",
+            "authorName": "",
+            "registrantSearchUrlAdr": "",
+            "modifiedDate": "2019-03-31T17:23:27",
+            "timezoneName": "",
+            "showContact": "false",
+            "assetParentAsset": {},
+            "assetStatus": {
+                "assetStatusId": "2",
+                "assetStatusName": "VISIBLE"
+            },
+            "regReqMaxAge": 17,
+            "currencyCd": "",
+            "resultsUrlAdr": "",
+            "assetImages": [],
+            "assetRegistrableStatus": "reg-open",
+            "evergreenParentAsset": {},
+            "sourceSystem": {
+                "sourceSystemName": "ActiveNet",
+                "legacyGuid": "fb27c928-54db-4ecd-b42f-482fc3c8681f",
+                "affiliate": "true"
+            },
+            "assetGuid": "1742b1b5-cb28-4cbc-a23f-9975c6ad2366",
+            "timezone": "UTC",
+            "assetRootAsset": {},
+            "assetTags": [
+                {
+                    "tag": {
+                        "tagId": "25244",
+                        "tagName": "Water Fitness",
+                        "tagDescription": "MISCELLANEOUS"
+                    }
+                },
+                {
+                    "tag": {
+                        "tagId": "32475",
+                        "tagName": "false",
+                        "tagDescription": "activeadvantage"
+                    }
+                },
+                {
+                    "tag": {
+                        "tagId": "29962",
+                        "tagName": "5281",
+                        "tagDescription": "MISCELLANEOUS"
+                    }
+                },
+                {
+                    "tag": {
+                        "tagId": "6577763",
+                        "tagName": "http://www.activekids.com/san-luis-obispo-ca/water-sports/swimming-classes/spring-swim-lessons-private-session-5-2019-49984325",
+                        "tagDescription": "canonicalurl"
+                    }
+                },
+                {
+                    "tag": {
+                        "tagId": "762099",
+                        "tagName": "Fitness and well-being\\Health",
+                        "tagDescription": "MISCELLANEOUS"
+                    }
+                }
+            ],
+            "assetPopularity": {
+                "searches": 0,
+                "createdAt": 1556668868,
+                "clickTypes": {
+                    "otherActive": 0,
+                    "registration": 0,
+                    "nonActive": 0
+                },
+                "clicks": 0,
+                "rank": 1,
+                "results": 1,
+                "views": 0,
+                "A3Rank": 1
+            },
+            "preferredUrlAdr": "",
+            "logoUrlAdr": "",
+            "assetPrices": [],
+            "detailPageTemplateId": "",
+            "assetComponents": [
+                {
+                    "activityStartDate": "2019-05-14T23:45:00",
+                    "assetSeoUrls": [],
+                    "assetGuid": "d0740e61-614a-4b3e-b772-eef63d56df04",
+                    "activityEndDate": "2019-05-24T00:15:00",
+                    "assetName": "Spring Swim Lessons: Private - Session 5"
+                }
+            ],
+            "teamUrlAdr": "",
+            "sorId": "",
+            "place": {
+                "placeDsc": "",
+                "placeUrlAdr": "",
+                "showPlaceName": "true",
+                "timezone": "America/Los_Angeles",
+                "postalCode": "93401",
+                "latitude": "35.276221",
+                "directionsTxt": "",
+                "addressLine2Txt": "",
+                "geoPoint": {
+                    "lon": "-120.663991",
+                    "lat": "35.276221"
+                },
+                "addressLine1Txt": "1341 Nipomo St.",
+                "stateProvinceCode": "CA",
+                "localityName": "",
+                "cityName": "San Luis Obispo",
+                "timezoneOffset": -8,
+                "timezoneDST": 1,
+                "countryCode": "USA",
+                "dma": {
+                    "dmaId": "855",
+                    "dmaName": "Santa Barbara - Santa Maria - San Luis Obispo"
+                },
+                "countryName": "United States",
+                "placeGuid": "f25281d8-0df9-4281-9240-b8a8109c5199",
+                "placeName": "City of San Luis Obispo",
+                "longitude": "-120.663991"
+            },
+            "overrideSeourlFlag": "false",
+            "assetCategories": [
+                {
+                    "sequence": "1",
+                    "category": {
+                        "categoryName": "Event",
+                        "categoryId": "2",
+                        "categoryTaxonomy": "Event"
+                    }
+                },
+                {
+                    "sequence": "2",
+                    "category": {
+                        "categoryName": "Classes",
+                        "categoryId": "13",
+                        "categoryTaxonomy": "Event/Classes"
+                    }
+                }
+            ],
+            "urlAdr": "http://www.active.com/san-luis-obispo-ca/water-sports/swimming-classes/spring-swim-lessons-private-session-5-2019-49984325?cmp=39-35-ettllc",
+            "retryCounter": "2",
+            "assetInterests": [],
+            "assetDsc": "",
+            "contactTxt": "",
+            "alternateName": "",
+            "regReqMinAge": 3,
+            "createdDate": "2018-12-03T20:29:45",
+            "assetMetaInterests": [
+                {
+                    "sequence": "1",
+                    "metaInterest": {
+                        "metaInterestId": "4",
+                        "metaInterestTaxonomy": "Kids",
+                        "metaInterestName": "Kids"
+                    }
+                }
+            ],
+            "salesStartDate": "2018-12-03T09:00:00",
+            "homePageUrlAdr": "",
+            "assetQuantity": {
+                "waitlistCnt": "",
+                "soldCnt": "2",
+                "createdDate": "2018-12-03T20:29:45",
+                "availableCnt": "0",
+                "modifiedDate": "2019-03-31T17:22:55",
+                "capacityNb": "2",
+                "waitlistCapacityNb": ""
+            },
+            "organization": {
+                "primaryContactName": "",
+                "organizationName": "City of San Luis Obispo Parks &amp; Recreation Department",
+                "addressPostalCd": "93401",
+                "sourceSystemId": "7",
+                "imageUrlAdr": "",
+                "addressCityName": "San Luis Obispo",
+                "organizationGuid": "a495ab6f-ff69-4d03-b356-d5a2a5b6d20f",
+                "addressLine2Txt": "",
+                "primaryContactPhone": "8057817300",
+                "shortDsc": "",
+                "addressLine1Txt": "1341 Nipomo Street",
+                "addressLocalityName": "",
+                "organizationDsc": "",
+                "organizationUrlAdr": "",
+                "hideOrganizationContact": "false",
+                "isDeleted": "false",
+                "addressStateProvinceCode": "CA",
+                "sourceSystemGuid": "fb27c928-54db-4ecd-b42f-482fc3c8681f",
+                "addressCountryCd": "USA",
+                "showOrganizationName": "true",
+                "fax": "8057817292"
+            },
+            "assetName": "Spring Swim Lessons: Private - Session 5",
+            "contactPhone": "",
+            "searchScore": 18.4456,
+            "assetVersion": 103,
+            "salesStatus": "registration-open"
+        },
+        {
+            "assetTopics": [
+                {
+                    "sequence": 1,
+                    "topic": {
+                        "topicId": 31,
+                        "topicName": "Fitness",
+                        "topicTaxonomy": "Fitness and well-being/Fitness"
+                    }
+                },
+                {
+                    "sequence": 2,
+                    "topic": {
+                        "topicId": 451,
+                        "topicName": "Swimming",
+                        "topicTaxonomy": "Sports/Water sports/Swimming"
+                    }
+                }
+            ],
+            "salesEndDate": "2019-05-28T08:00:00",
+            "regReqGenderCd": "C",
+            "registrationUrlAdr": "",
+            "retryDate": "2019-01-15T20:35:44",
+            "evergreenAssets": [],
+            "assetSeoUrls": [],
+            "publishDate": null,
+            "assetChannels": [
+                {
+                    "sequence": 1,
+                    "channel": {
+                        "channelDsc": "",
+                        "channelName": "Fitness and well-being\\Health",
+                        "channelId": 2469
+                    }
+                },
+                {
+                    "sequence": 2,
+                    "channel": {
+                        "channelDsc": "Fitness",
+                        "channelName": "Fitness",
+                        "channelId": 1009
+                    }
+                },
+                {
+                    "sequence": 3,
+                    "channel": {
+                        "channelDsc": "",
+                        "channelName": "Water Fitness",
+                        "channelId": 1293
+                    }
+                },
+                {
+                    "sequence": 4,
+                    "channel": {
+                        "channelDsc": "",
+                        "channelName": "Sports",
+                        "channelId": 1262
+                    }
+                },
+                {
+                    "sequence": 5,
+                    "channel": {
+                        "channelDsc": "Swimming",
+                        "channelName": "Swimming",
+                        "channelId": 1024
+                    }
+                }
+            ],
+            "sorCreateDtm": null,
+            "sponsoredContent": {},
+            "dynamicPriceIncluded": false,
+            "localeCd": "",
+            "activityRecurrences": [
+                {
+                    "frequencyInterval": null,
+                    "activityStartDate": "2019-05-28T00:00:00",
+                    "activityExclusions": [],
+                    "monthWeekInterval": null,
+                    "activityEndDate": "2019-06-06T00:00:00",
+                    "days": "Tuesday, Thursday",
+                    "startTime": "16:10:00",
+                    "endTime": "16:40:00",
+                    "frequency": {
+                        "frequencyName": "Weekly"
+                    }
+                }
+            ],
+            "assetLegacyData": {
+                "maxTeamNb": "",
+                "assetTypeId": "FB27C928-54DB-4ECD-B42F-482FC3C8681F",
+                "costAmt": null,
+                "typeName": "",
+                "uploadSearchUrlAdr": "",
+                "avgUserRatingTxt": "",
+                "trackbackUrl": "",
+                "seoUrl": "",
+                "eventCategories": "",
+                "estParticipantNb": "",
+                "participationCriteriaTxt": "",
+                "priceExtensionTxt": "",
+                "isSearchable": false,
+                "onlineMembership": null,
+                "minGuaranteedGameNb": "",
+                "searchWeight": "1.0000",
+                "userCommentTxt": "",
+                "substitutionUrl": "sloparksandrec/registrationmain.sdi?source=showAsset.sdi&activity_id=28446",
+                "onlineDonation": null,
+                "genderRequirementTxt": "",
+                "createdDate": "2018-12-03T20:30:26",
+                "onlineMembershipCostAmt": null,
+                "authorName": "",
+                "onlineRegistration": true,
+                "modifiedDate": "2019-01-15T20:21:08",
+                "multipleStartDate": null
+            },
+            "activityEndDate": "2019-06-06T23:40:00",
+            "assetDeals": [],
+            "assetServiceHostName": "prod-asset-01w",
+            "childIndex": null,
+            "assetDescriptions": [
+                {
+                    "descriptionType": {
+                        "descriptionTypeName": "Standard",
+                        "descriptionTypeId": 6
+                    },
+                    "description": "<div><h4>Description</h4><p>A private swimming lesson is designed to maximize the individual instruction given to a particular student with a one to one student/teacher ratio. Semi-private lessons are available for family members or close friends that have students of a similar ability (first student pays full private fee; second student pays at half price. Enroll the first child to secure the spot and enrollment of additional swimmers will take place the first day of the lesson). <u>Refunds are not available for lessons; however, a credit can be provided.</u> For swim lessons, please use the side entrance to enter the SLO Swim Center.<hr align=\"center\" width=\"90%\"><div style=\"text-align:center;color:red;font-weight:bold;padding-left:4px;padding-right:4px\"><p style=\"margin: 0in 0in 0pt;\"><span style=\"font-family: \" calibri\",\"sans-serif\";=\"\" mso-ascii-theme-font:=\"\" minor-latin;=\"\" mso-hansi-theme-font:=\"\" minor-latin;\"=\"\"><strong>Refunds are NOT available for Swim Lessons, however credits may  be provided.</strong></span></p><div></p></div><div><h4>Activity Category</h4><p>Aquatics</p></div><div><h4>Location</h4><p>SLO Swim Center</p></div><div><h4>Instructor</h4><p>SLO Swim Center Staff</p></div>"
+                }
+            ],
+            "componentInUrlAdr": {},
+            "activityStartDate": "2019-05-28T23:10:00",
+            "volumePriceIncluded": false,
+            "contactName": "",
+            "sorCreateUserId": "",
+            "localTimeZoneId": "America/Los_Angeles",
+            "socialMedia": [],
+            "donationUrlAdr": "",
+            "activenetTopGraphic": {},
+            "assetReferences": [],
+            "market": {},
+            "assetAttributes": [],
+            "timezoneAbb": "",
+            "assetMediaTypes": [
+                {
+                    "sequence": 1,
+                    "mediaType": {
+                        "mediaTypeName": "Events",
+                        "mediaTypeDsc": "",
+                        "mediaTypeId": 204
+                    }
+                },
+                {
+                    "sequence": 2,
+                    "mediaType": {
+                        "mediaTypeName": "Class",
+                        "mediaTypeDsc": "",
+                        "mediaTypeId": 28
+                    }
+                }
+            ],
+            "evergreenAssetFlag": "false",
+            "authorName": "",
+            "registrantSearchUrlAdr": "",
+            "modifiedDate": "2019-01-15T20:25:45",
+            "timezoneName": "",
+            "showContact": "false",
+            "assetParentAsset": {
+                "assetGuid": "686740ed-4a49-4b0e-a5ab-033c6306d947"
+            },
+            "assetStatus": {
+                "assetStatusId": "2",
+                "assetStatusName": "VISIBLE"
+            },
+            "regReqMaxAge": 17,
+            "currencyCd": "USD",
+            "resultsUrlAdr": "",
+            "assetImages": [],
+            "sourceSystem": {
+                "sourceSystemName": "ActiveNet",
+                "legacyGuid": "fb27c928-54db-4ecd-b42f-482fc3c8681f",
+                "id": "7",
+                "affiliate": "true"
+            },
+            "assetGuid": "e1a93759-bcf5-4943-81a4-c6dd86e0bdf5",
+            "timezone": "UTC",
+            "evergreenParentAsset": {},
+            "assetTags": [
+                {
+                    "tag": {
+                        "tagId": 29965,
+                        "tagName": "5284",
+                        "tagDescription": "MISCELLANEOUS"
+                    }
+                },
+                {
+                    "tag": {
+                        "tagId": 32475,
+                        "tagName": "false",
+                        "tagDescription": "activeadvantage"
+                    }
+                }
+            ],
+            "assetRootAsset": {},
+            "preferredUrlAdr": "",
+            "logoUrlAdr": "",
+            "assetPrices": [
+                {
+                    "effectiveFromVolume": 0,
+                    "priceAmt": 69,
+                    "priceType": "Standard charge. ",
+                    "maxPriceAmt": 69,
+                    "effectiveUntilDate": null,
+                    "minPriceAmt": 69,
+                    "effectiveToVolume": 0,
+                    "dynamicPricing": false,
+                    "volumePricing": false
+                }
+            ],
+            "detailPageTemplateId": "",
+            "assetComponents": [],
+            "teamUrlAdr": "",
+            "sorId": "",
+            "place": {
+                "placeDsc": "",
+                "placeUrlAdr": "",
+                "showPlaceName": true,
+                "timezone": "America/Los_Angeles",
+                "postalCode": "93401",
+                "latitude": "35.276221",
+                "directionsTxt": "",
+                "addressLine2Txt": "",
+                "geoPoint": {
+                    "lon": "-120.663991",
+                    "lat": "35.276221"
+                },
+                "addressLine1Txt": "1341 Nipomo St.",
+                "stateProvinceCode": "CA",
+                "localityName": "",
+                "cityName": "San Luis Obispo",
+                "timezoneOffset": -8,
+                "timezoneDST": 1,
+                "countryCode": "USA",
+                "dma": {
+                    "dmaId": 855,
+                    "dmaName": "Santa Barbara - Santa Maria - San Luis Obispo"
+                },
+                "countryName": "United States",
+                "placeGuid": "f25281d8-0df9-4281-9240-b8a8109c5199",
+                "placeName": "City of San Luis Obispo",
+                "longitude": "-120.663991"
+            },
+            "overrideSeourlFlag": false,
+            "assetCategories": [
+                {
+                    "sequence": 1,
+                    "category": {
+                        "categoryName": "Event",
+                        "categoryId": 2,
+                        "categoryTaxonomy": "Event"
+                    }
+                },
+                {
+                    "sequence": 2,
+                    "category": {
+                        "categoryName": "Classes",
+                        "categoryId": 13,
+                        "categoryTaxonomy": "Event/Classes"
+                    }
+                }
+            ],
+            "urlAdr": "",
+            "retryCounter": 2,
+            "assetInterests": [],
+            "assetDsc": "",
+            "contactTxt": "",
+            "alternateName": "",
+            "regReqMinAge": 3,
+            "createdDate": "2018-12-03T20:30:26",
+            "assetMetaInterests": [],
+            "salesStartDate": "2018-12-03T09:00:00",
+            "homePageUrlAdr": "",
+            "assetQuantity": {
+                "waitlistCnt": "",
+                "soldCnt": "2",
+                "createdDate": "2018-12-03T20:30:26",
+                "availableCnt": "0",
+                "modifiedDate": "2019-01-15T20:21:08",
+                "capacityNb": "2",
+                "waitlistCapacityNb": ""
+            },
+            "organization": {
+                "primaryContactName": "",
+                "organizationName": "City of San Luis Obispo Parks &amp; Recreation Department",
+                "addressPostalCd": "93401",
+                "sourceSystemId": 7,
+                "imageUrlAdr": "",
+                "addressCityName": "San Luis Obispo",
+                "eventCount": 108,
+                "organizationGuid": "a495ab6f-ff69-4d03-b356-d5a2a5b6d20f",
+                "primaryContactPhone": "8057817300",
+                "addressLine2Txt": "",
+                "shortDsc": "",
+                "addressLine1Txt": "1341 Nipomo Street",
+                "addressLocalityName": "",
+                "organizationDsc": "",
+                "organizationUrlAdr": "",
+                "hideOrganizationContact": false,
+                "isDeleted": false,
+                "a3EventCount": 308,
+                "addressStateProvinceCode": "CA",
+                "sourceSystemGuid": "fb27c928-54db-4ecd-b42f-482fc3c8681f",
+                "addressCountryCd": "USA",
+                "showOrganizationName": true,
+                "fax": "8057817292"
+            },
+            "assetName": "Spring Swim Lessons: Private - Session 6",
+            "contactPhone": "",
+            "searchScore": 18.3053,
+            "assetVersion": 62,
+            "salesStatus": "registration-open"
+        }
+    ],
+    "radius": null,
+    "start_date": "",
+    "boost": null,
+    "sort": "distance"
+}
